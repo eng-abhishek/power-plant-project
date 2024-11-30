@@ -1,0 +1,226 @@
+{
+    "START OF HEADER" : "",
+
+    "Logo" : "심벌 마크",
+    "How it works" : "작동 원리",
+    "Home" : "집",
+    "About Us" : "회사 소개",
+    "History" : "역사",
+    "Exchange" : "교환",
+    "Contact" : "연락하다",
+
+    "START OF HOME PAGE" : "",
+
+    "Start exchange":"교환 시작",
+    "You Send":"당신은 보낸다",
+    "You Get":"당신은 얻을",
+    "Exchange rate":"환율",
+
+    "Enter XMR address":"",
+    "Enter Refund Address":"환불 주소 입력",
+    
+    "Exchange_notes":"나열된 모든 준비금은 우리의 소유이며 현재 지갑/노드에 할당되어 있습니다. 우리는 제3자 유동성 공급자에 의존하지 않고 독립적으로 운영됩니다. KYC, SOF 없음. IP 로그.",
+   
+    "No-KYC Crypto Exchange":"KYC 없는 암호화폐 거래소",
+    "Effortless, Anonymous, Hassle-Free Crypto Exchange":"간편하고 익명이며 번거롭지 않은 암호화폐 거래소",
+    "ChainSwap Empowering Limitless Web3.0 Crypto Exchange":"무한한 Web3.0 암호화 교환을 지원하는 ChainSwap",
+    "Private":"사적인",
+    "No registration, email, or account required—just your crypto address.":"등록, 이메일 또는 계정이 필요하지 않습니다. 암호화폐 주소만 있으면 됩니다.",
+    "Fast":"빠른",
+    "Swap over 150+ cryptocurrencies instantly to your wallet.":"150개 이상의 암호화폐를 즉시 지갑으로 교환하세요.",
+    "Safe":"안전한",
+    "You retain full control over your funds and data—we prioritize your privacy without tracking.":"귀하는 귀하의 자금과 데이터에 대한 완전한 통제권을 가집니다. 당사는 추적하지 않고 귀하의 개인정보 보호를 최우선으로 생각합니다.",
+    "Start Swap Now":"지금 스왑 시작하기",
+    "Featured on":"특집",
+
+    "Enter Amount":"금액을 입력하세요",
+    "Type a cryptocurrency or ticker":"암호화폐 또는 티커를 입력하세요",
+    "Not Found":"찾을 수 없음",
+    "Limit Less":"제한 덜",
+    "Dynamic Rate":"동적 속도",
+
+
+    "START OF ABOUT PAGE" : "",
+    
+    "Got any questions?" : "질문이 있으신가요?",
+    "Don't hesitate to get in touch." : "주저하지 말고 연락하세요.",
+    "How It Works?" : "어떻게 작동하나요?",
+    "Select" : "선택하다",
+    "Choose the cryptocurrency you wish to exchange on ChainSwap.io." : "ChainSwap.io에서 교환하려는 암호화폐를 선택하세요.",
+    "Enter" : "입력하다",
+    "Please enter the correct address for the specific coin to send to." : "보낼 특정 코인의 정확한 주소를 입력해주세요.",
+    "Exchange":"교환",
+    "Double-check the entered address and coin. Then, press the \"EXCHANGE\" button." : "입력한 주소와 동전을 다시 한번 확인하세요. 그런 다음 \"EXCHANGE\" 버튼을 누르세요.",
+    
+    "START OF History PAGE" : "",
+
+    "START OF Contact Us Page" : "",
+    "Contact Us":"문의하기",
+
+    "Exchange History" : "교류내역",
+    "No result found!" : "결과가 없습니다!",
+
+    "START OF Exchange Detail PAGE" : "",
+
+    "Exchange from_coin_name to to_coin_name":":from_coin_name에서 :to_coin_name으로 교환",
+    "Exchange from_coin_name to to_coin_name instantly, without registration and hidden fees. Full automation, maximum speed and the best exchange rates.":"등록 및 숨겨진 수수료 없이 :from_coin_name을(를) :to_coin_name(으)로 즉시 교환하세요. 완전 자동화, 최대 속도 및 최고의 환율.",
+    "ChainSwap":"체인스왑",
+
+    "Exchange from_coin to to_coin":":from_coin에서 :to_coin으로 교환",
+    
+    "from_coin to to_coin Swap":":from_coin에서 :to_coin으로 스왑",
+
+    "Exchange in 3 steps":"3단계로 교환",
+
+    "Enter the desired amount of from_coin and write your wallet address to receive currency.":"원하는 수량의 :from_coin을 입력하고, 화폐를 받을 지갑 주소를 적어주세요.",
+    
+    "Click the \"Exchange now\" button and you will be taken inside your order.":"\"지금 교환\" 버튼을 클릭하면 주문 내역으로 이동됩니다.",
+    "Send from_coin to the address from your order, after the required network confirmation, to_coin will be sent instantly.":"from_coin을 주문 주소로 보내세요. 필요한 네트워크 확인 후 to_coin이 즉시 전송됩니다.",
+    "What do you need to know?":"무엇을 알아야 합니까?",
+    "You need 2 confirmations of the from_coin blockchain for the exchange":"교환을 위해서는 from_coin 블록체인에 대한 2개의 확인이 필요합니다.",
+    "When sending to_coin Payment ID, you do not need to enter, we use integrated wallets":":to_coin 전송시 결제ID를 입력할 필요가 없으며 통합지갑을 사용합니다.",
+    "The speed of confirmation of a to_coin transaction depends on the level of congestion of the to_coin blockchain network, read more in our":":to_coin 거래 확인 속도는 :to_coin 블록체인 네트워크의 정체 수준에 따라 다릅니다. 자세한 내용은 당사에서 읽어보세요.",
+    "article":"기사",
+    "Overview":"개요",
+    "Resources":"자원",
+    "Whitepaper":"백지",
+    "Official website":"공식 웹 사이트",
+    "Market":"시장",
+    "MARKET CAP":"시가총액",
+    "VOLUME (24H)":"볼륨(24시간)",
+    "PRICE":"가격",
+    "HIGH (24H)":"높음(24시간)",
+    "LOW (24H)":"낮음(24시간)",
+    "Conversion tables":"변환표",
+    "from_coin to to_coin Conversion Table":":from_coin에서 :to_coin으로의 변환표",
+    "to_coin to from_coin Conversion Table":":to_coin에서 :from_coin으로의 변환표",
+    "Last update":"마지막 업데이트",
+    "Name":"이름",
+    "Symbol":"상징",
+    "Circulating supply":"순환 공급",
+    "Max supply":"최대 공급량",
+    "CMC rank":"CMC 랭크",
+    "Market Capital":"시가총액",
+    "Full Diluted Market Capital":"완전희석시가총액",
+    "from_coin to to_coin calculator":":from_coin에서 :to_coin으로 계산기",
+    "Investors and hustlers always crunch the numbers before diving into digital deals. Need to know the scoop on your from_coin to to_coin move? Glide over to chainswap.io converter!":"투자자와 사기꾼은 디지털 거래에 뛰어들기 전에 항상 숫자를 분석합니다. :from_coin에서 :to_coin으로의 이동에 대한 정보가 필요하십니까? chainswap.io 변환기로 이동하세요!",
+    "With its sleek interface, you can swap from_coin for to_coin in a snap, pinning down those buy and sell figures. Don't sweat the math—this tool's got your back for lightning fast profitability predictions!":"세련된 인터페이스를 통해 :from_coin을 :to_coin으로 즉시 교체하여 매수 및 매도 수치를 확인할 수 있습니다. 계산에 애쓰지 마십시오. 이 도구는 매우 빠른 수익성 예측을 지원합니다!",
+    
+    "How to Convert from_coin to to_coin":":from_coin을 :to_coin으로 변환하는 방법",
+
+
+    "Transforming your from_coin_name (from_coin_symbol) into to_coin_name (to_coin_symbol) is a breeze with our online exchange platform. Just follow these quick and easy steps to make the switch hassle-free:":"저희 온라인 교환 플랫폼을 이용하면 :from_coin_name(:from_coin_symbol)을 :to_coin_name(:to_coin_symbol)으로 쉽게 변환하실 수 있습니다. 번거로움 없이 전환하려면 다음의 빠르고 쉬운 단계를 따르십시오.",
+
+    "Step 1: Select from_coin_symbol from the dropdown menu on the left side of the exchanger, and to_coin_symbol from the dropdown menu on the right side. Then, simply enter the amount you want to convert from from_coin_symbol to to_coin_symbol,and let the calculator do the rest—it'll instantly show you how much to_coin_symbol you'll receive for your from_coin_symbol! Easy as pie.":"1단계: 교환기 왼쪽 드롭다운 메뉴에서 :from_coin_symbol을 선택하고 오른쪽 드롭다운 메뉴에서 :to_coin_symbol을 선택합니다. 그런 다음 :from_coin_symbol에서 :to_coin_symbol로 변환하려는 금액을 입력하고 나머지는 계산기에 맡기세요. :from_coin_symbol로 받을 수 있는 :to_coin_symbol 금액이 즉시 표시됩니다! 파이처럼 쉽습니다.",
+     
+    "Step 2: Pop your to_coin_symbol wallet address into the designated field to ensure you receive the converted amount from from_coin_symbol to to_coin_symbol. Then, hit that \"Exchange\" button to kickstart the process. Watch as the magic unfolds your order to swap from_coin_symbol to to_coin_symbol is now in motion!":"2단계: :to_coin_symbol 지갑 주소를 지정된 필드에 입력하여 :from_coin_symbol에서 :to_coin_symbol로 변환된 금액을 받을 수 있도록 하세요. 그런 다음 \"Exchange\" 버튼을 눌러 프로세스를 시작하세요. :from_coin_symbol을 :to_coin_symbol로 바꾸는 주문이 마법처럼 펼쳐지는 것을 지켜보세요!",
+
+    "Step 3: Hold tight for the next stage! We'll send you a deposit address where you'll transfer the from_coin_symbol amount you're looking to exchange. Once that's done, keep an eye out for your transaction ID we'll notify you as soon as it's confirmed!":"3단계: 다음 단계를 위해 꽉 붙잡으세요! 교환하려는 :from_coin_symbol 금액을 이체할 입금 주소를 보내드립니다. 완료되면 거래 ID를 잘 확인하세요. 확인되는 대로 알려드리겠습니다!",
+
+    "Step 4: Throughout the entire transaction journey, rest assured we guarantee a fixed from_coin_symbol to to_coin_symbol rate from start to finish. No surprises, just smooth sailing all the way to completion!":"4단계: 전체 거래 과정에서 처음부터 끝까지 고정된 :from_coin_symbol에서 :to_coin_symbol 비율을 보장하므로 안심하세요. 놀라지 마세요. 순조롭게 항해를 완료하세요!",
+    
+    "Step 5: Get ready to welcome to_coin_symbol straight into the wallet you specified at the start, complete with all the order details and its duration. Your crypto journey is almost complete just a few more moments till your to_coin_symbol arrives!":"5단계: 시작 시 지정한 지갑에 :to_coin_symbol을 입력하고 모든 주문 세부정보와 기간을 입력하여 환영할 준비를 하세요. :to_coin_symbol이 도착할 때까지 몇 분만 더 지나면 암호화폐 여행이 거의 완료됩니다!",
+    
+    "Easy and fast!":"쉽고 빠르게!",
+
+    "How to Convert from_coin to to_coin ?":":from_coin을 :to_coin으로 변환하는 방법은 무엇입니까?",
+    "from_coin_symbol to to_coin_symbol Price Details":":from_coin_symbol ~ :to_coin_symbol 가격 세부정보",
+
+    "Live from_coin_symbol to to_coin_symbol Price":"실시간 :from_coin_symbol에서 :to_coin_symbol 가격",
+
+    "Unlock real-time insights into from_coin_symbol to to_coin_symbol rate fluctuations with chainswap.io! Check out the latest closing rates for from_coin_symbol to to_coin_symbol right here. Plus, with chainswap, explore the actual volume of from_coin_symbol to to_coin_symbol transactions, giving you the pulse of the crypto market at your fingertips.":"chainswap.io를 통해 :from_coin_symbol에서 :to_coin_symbol의 환율 변동에 대한 실시간 통찰력을 얻으세요! :from_coin_symbol에서 :to_coin_symbol까지의 최신 마감율을 여기에서 확인하세요. 또한 체인스왑을 통해 :from_coin_symbol에서 :to_coin_symbol까지의 실제 거래량을 탐색하여 암호화폐 시장의 흐름을 손끝에서 확인할 수 있습니다.",
+
+    "Convert from_coin_symbol to to_coin_name at the Best Rates":":from_coin_symbol을 :to_coin_name으로 가장 좋은 가격으로 변환하세요",
+
+    "Rest easy with ChainSwap exchange service—all exchanges are utterly secure. With a proven track record and top-notch reviews, we've earned a spotless reputation and a wealth of positive feedback. Exchange not only from_coin_name for to_coin_name, but also over 200 other crypto coins across 40,000+ trade pairs! Our system keeps an eye on the best rates in real-time from major platforms like Bitfinex, HITBtc, Binance, and more, ensuring you the ultimate exchange experience. Say goodbye to market volatility we offer a fixed exchange rate that remains steady until your transaction is complete. Safe, reliable, and hassle free that's the ChainSwap promise.":"ChainSwap 교환 서비스로 안심하세요. 모든 교환은 완전히 안전합니다. 검증된 실적과 최고 수준의 리뷰를 통해 우리는 흠잡을 데 없는 평판과 풍부한 긍정적인 피드백을 얻었습니다. :from_coin_name을 :to_coin_name으로 교환할 뿐만 아니라 40,000개 이상의 거래 쌍에서 200개 이상의 다른 암호화폐 코인도 교환할 수 있습니다! 우리 시스템은 Bitfinex, HITBtc, Binance 등과 같은 주요 플랫폼의 최고 환율을 실시간으로 감시하여 최고의 교환 경험을 보장합니다. 시장 변동성에 작별을 고하세요. 우리는 거래가 완료될 때까지 안정적으로 유지되는 고정 환율을 제공합니다. 안전하고 신뢰할 수 있으며 번거롭지 않은 것이 ChainSwap의 약속입니다.",
+    
+    "from_coin_name Vs to_coin_name Exchange Benefits":":from_coin_name 대 :to_coin_name 교환 혜택",
+
+    "Experience anonymous, lightning-fast, and secure exchanges with ChainSwap. Our dedicated support team is available round-the-clock, ensuring that any transaction inquiries are swiftly addressed, typically within minutes. With the launch of the ChainSwap mobile app for iOS and Android, access to digital coin rates is at your fingertips from any smart device. This convenient feature appeals to traders seeking swift and lucrative crypto transactions and exchanges. Convert from_coin_symbol to to_coin_symbol at the most competitive rates with ChainSwap, where the exchange process operates seamlessly like a Swiss watch.":"ChainSwap을 통해 익명의 초고속 보안 교환을 경험해 보세요. 당사의 전담 지원팀은 24시간 내내 대기하고 있어 모든 거래 문의가 일반적으로 몇 분 내에 신속하게 처리되도록 보장합니다. iOS 및 Android용 ChainSwap 모바일 앱이 출시되면서 모든 스마트 기기에서 디지털 코인 요율에 액세스할 수 있습니다. 이 편리한 기능은 신속하고 수익성 있는 암호화폐 거래 및 교환을 원하는 거래자에게 매력적입니다. ChainSwap을 통해 가장 경쟁력 있는 가격으로 :from_coin_symbol을 :to_coin_symbol로 변환하세요. ChainSwap에서는 교환 프로세스가 스위스 시계처럼 원활하게 진행됩니다.",
+
+    "If you're looking to sell from_coin_symbol and snag some to_coin_name, look no further than the integrated ChainSwap price calculator. With just one click, you'll see exactly how much to_coin_name you'll score after specifying the amount of from_coin_name you're itching to exchange. It's that simple!":":from_coin_symbol을 판매하고 일부 :to_coin_name을 확보하려는 경우 통합 ChainSwap 가격 계산기 외에는 다른 것이 없습니다. 한 번의 클릭만으로 교환하고 싶은 :from_coin_name의 양을 지정한 후 :to_coin_name의 점수를 정확히 확인할 수 있습니다. 그것은 매우 간단합니다!",
+
+    "To secure the best rates for our clients, ChainSwap collaborates with top-tier crypto exchanges. This partnership allows us to provide relevant trading details and exchange rate comparisons, ensuring you get the most out of your transactions.":"고객을 위한 최상의 가격을 보장하기 위해 ChainSwap은 최상위 암호화폐 거래소와 협력합니다. 이 파트너십을 통해 당사는 관련 거래 세부정보 및 환율 비교를 제공하여 귀하가 거래를 최대한 활용할 수 있도록 보장합니다.",
+    
+    "The circulating supply of from_coin_name stands at from_circulating_supply USD coins out of a maximum supply of from_coin_max_supply USD coins. Meanwhile, to_coin_name boasts a circulating supply of to_coin_circulating_supply USD with no defined maximum supply.":":from_coin_name의 순환 공급량은 최대 공급량 :from_coin_max_supply USD 코인 중 :from_circlating_supply USD 코인입니다. 한편, :to_coin_name은 정의된 최대 공급량 없이 :to_coin_circlating_supply USD의 순환 공급량을 자랑합니다.",
+     
+    "Percentage price change":"가격 변동률",
+
+    "Over the past 24 hours, the from_coin_name rate has experienced a change of day_valume USD, and over all market capital is from_marketCap USD":"지난 24시간 동안 :from_coin_name 환율은 :day_valume USD의 변화를 경험했으며 전체 시가총액은 :from_marketCap USD입니다.",
+
+    "Over the past 24 hours, the to_coin_name rate has changed by day_to_volume USD, and over all market capital is to_marketCap USD":"지난 24시간 동안 :to_coin_name 환율은 :day_to_volume USD만큼 변경되었으며 전체 시가총액은 :to_marketCap USD입니다.",
+    
+    "How from_coin_name to to_coin_name calculator works":":from_coin_name에서 :to_coin_name까지 계산기 작동 방식",
+
+    "A cryptocurrency converter streamlines the process of understanding the relative values of different digital currencies. Simply input the desired amount into the designated field of the chainswap calculator, and voila! You'll instantly see the real-time conversion results, making it easy to gauge the cost of one cryptocurrency in terms of another.":"암호화폐 변환기는 다양한 디지털 통화의 상대적 가치를 이해하는 과정을 간소화합니다. 체인스왑 계산기의 지정된 필드에 원하는 금액을 입력하기만 하면 됩니다! 실시간 변환 결과를 즉시 확인할 수 있으므로 한 암호화폐의 비용을 다른 암호화폐로 쉽게 측정할 수 있습니다.",
+
+    "For the convenience of users, the chainswap immediately shows the values of the main types of digital money, so that you can independently calculate or check the obtained  amounts. The calculator saves the time, indicating actual values on conversion of from_coin_symbol to to_coin_symbol":"사용자의 편의를 위해 체인스왑은 주요 디지털 화폐 유형의 가치를 즉시 표시하므로 획득한 금액을 독립적으로 계산하거나 확인할 수 있습니다. 계산기는 :from_coin_symbol에서 :to_coin_symbol로의 변환 시 실제 값을 표시하여 시간을 절약해 줍니다.",
+    "Volume 24h":"24시간 볼륨",
+
+
+    "How it work":"",
+
+    "Choose the crypto exchange pair":"암호화폐 교환 쌍을 선택하세요",
+    
+    "Let's assume you have Bitcoin and you want to have Ethereum.":"당신이 비트코인을 가지고 있고 이더리움을 갖고 싶어한다고 가정해 봅시다.",
+    
+    "Here is how the ETH to BTC exchange process takes place on Chainswap.":"Chainswap에서 ETH를 BTC로 교환하는 과정은 다음과 같습니다.",
+    
+    "Enter the recipient's address":"받는 사람의 주소를 입력하세요",
+    
+    "Now you need to enter the recipient's Ethereum address. Be extremely careful and double-check your ETH address. Your Ethereum coins will be sent to this address right after the exchange.":"이제 수신자의 이더리움 주소를 입력해야 합니다. 각별히 주의하시고 ETH 주소를 다시 확인하세요. 귀하의 이더리움 코인은 교환 직후 이 주소로 전송됩니다.",
+    
+    "Send and receive cryptocurrencies":"암호화폐 보내기 및 받기",
+    
+    "On the exchange page, you will see the address to send the indicated amount of Bitcoins to continue the exchange.":"교환 페이지에는 교환을 계속하기 위해 표시된 양의 비트코인을 보낼 주소가 표시됩니다.",
+    
+    "Receive cryptocurrency":"암호화폐 받기",
+    
+    "When the swap process is over and the exchange is successfully finished, you will get the desired crypto.":"스왑 과정이 끝나고 교환이 성공적으로 완료되면 원하는 암호화폐를 얻게 됩니다.",
+
+
+    "Exchange Detail Page SEO Data":"",
+
+    "from_coin_symbol to to_coin_symbol swap Exchange from_coin_name to to_coin_name anonymously Chainswap":":from_coin_symbol a :to_coin_symbol 스왑 Intercambio :from_coin_name a :to_coin_name anónimamente 체인스왑",
+
+    "Quickly and easily swap from_coin_name to to_coin_name without registration. Anonymous from_coin_symbol to to_coin_symbol Exchange online ➤ Best from_coin_symbol to to_coin_symbol exchange rate on Chainswap.io.":"회원가입 없이 빠르고 쉽게 :from_coin_name을 :to_coin_name으로 교환하세요. 익명 :from_coin_symbol에서 :to_coin_symbol로 온라인 스왑 ➤ Chainswap.io에서 :from_coin_symbol에서 :to_coin_symbol로의 최고의 환율.",
+
+
+    "SUSSCEE/ERROR MESSAGE":"",
+
+    "Oops something went wrong, please try again later.":"죄송합니다. 문제가 발생했습니다. 나중에 다시 시도해 주세요.",
+   
+    "Oops this coin is temporarily suspended, please try again after sometime.":"죄송합니다. 해당 코인은 일시적으로 정지되었으니 잠시 후 다시 시도해주세요.",
+   
+    "Oops the min amount should be min_amount currency_from":"이런, 최소 금액은 :min amount :currency from이어야 합니다.",
+   
+    "Oops something went wrong, please contact to support.":"죄송합니다. 문제가 발생했습니다. 지원팀에 문의하세요.",
+
+    "Please enter valid to address.":"유효한 주소를 입력해 주세요.",
+
+    "Oops this order id do not exist.":"이런 주문 ID가 존재하지 않습니다.",
+
+
+    "WHAT TYPE OF NETWORK DO YOU WANT TO RECIEVE to_coin FROM?":":to_coin에서 어떤 유형의 네트워크를 수신하고 싶나요?",
+
+    "WHAT TYPE OF NETWORK DO YOU WANT TO SEND from_coin TO?":"from_coin으로 어떤 유형의 네트워크를 보내시겠습니까?",
+
+    "Enter to_coin Address":":to_coin 주소를 입력하세요",
+
+    "Enter Refund Address":"환불 주소 입력",
+
+    "Type a cryptocurrency or ticker":"암호화폐 또는 티커를 입력하세요",
+
+
+    "START OF FOOTER" : "",
+
+    "Select Language" : "언어 선택",
+    "Quick Links" : "빠른 링크",
+    "PGP":"PGP",
+    "PGP SIGN":"PGP 서명",
+    "FAQ" : "자주하는 질문",
+    "Reviews" : "리뷰",
+    "Crypto Pairs":"암호화폐 쌍",
+    "Terms of Service" : "서비스 약관",
+    "Privacy Policy" : "개인 정보 정책"
+}

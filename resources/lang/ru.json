@@ -1,0 +1,231 @@
+{
+    "START OF HEADER" : "",
+
+    "Logo" : "Логотип",
+    "How it works" : "Как это работает",
+    "Home" : "Дом",
+    "About Us" : "О нас",
+    "History" : "История",
+    "Exchange" : "Обмен",
+    "Contact" : "Контакт",
+    
+    "START OF HOME PAGE" : "",
+
+    "Start exchange":"Начать обмен",
+    "You Send":"Вы отправляете",
+    "You Get":"Вы получаете",
+    "Exchange rate":"Обменный курс",
+
+    "Enter XMR address":"",
+    "Enter Refund Address":"Введите адрес возврата",
+    
+    "Exchange_notes":"Все перечисленные резервы находятся в нашей собственности и в настоящее время распределены по нашим кошелькам/узлам. Мы работаем независимо, не полагаясь на сторонних поставщиков ликвидности. НЕТ KYC, SOF. ИП журнал.",
+   
+    "No-KYC Crypto Exchange":"Криптобиржа без KYC",
+    "Effortless, Anonymous, Hassle-Free Crypto Exchange":"Легкий, анонимный и простой обмен криптовалютой",
+    "ChainSwap Empowering Limitless Web3.0 Crypto Exchange":"ChainSwap расширяет возможности безграничной криптобиржи Web3.0",
+    "Private":"Частный",
+    "No registration, email, or account required—just your crypto address.":"Никакой регистрации, электронной почты или учетной записи не требуется — только ваш криптографический адрес.",
+    "Fast":"Быстрый",
+    "Swap over 150+ cryptocurrencies instantly to your wallet.":"Мгновенно обменивайте более 150+ криптовалют на свой кошелек.",
+    "Safe":"Безопасный",
+    "You retain full control over your funds and data—we prioritize your privacy without tracking.":"Вы сохраняете полный контроль над своими средствами и данными — мы уделяем приоритетное внимание вашей конфиденциальности без отслеживания.",
+    "Start Swap Now":"Начать обмен сейчас",
+    "Featured on":"Представлено на",
+
+    "Enter Amount":"Введите сумму",
+    "Type a cryptocurrency or ticker":"Введите криптовалюту или тикер",
+    "Not Found":"Не найдено",
+    "Limit Less":"Безграничный",
+    "Dynamic Rate":"Динамическая скорость",
+    
+    "START OF ABOUT PAGE" : "",
+
+    "Got any questions?" : "Есть вопросы?",
+    "Don't hesitate to get in touch." : "Не стесняйтесь обращаться к нам.",
+    "How It Works?" : "Как это работает?",
+    "Select" : "Выбирать",
+    "Choose the cryptocurrency you wish to exchange on ChainSwap.io." : "Выберите криптовалюту, которую хотите обменять на ChainSwap.io.",
+    "Enter" : "Входить",
+    "Please enter the correct address for the specific coin to send to." : "Пожалуйста, введите правильный адрес конкретной монеты, на которую нужно отправить.",
+    "Exchange":"Обмен",
+    "Double-check the entered address and coin. Then, press the \"EXCHANGE\" button.":"Еще раз проверьте введенный адрес и монету. Затем нажмите кнопку «ОБМЕН».",
+    
+    "START OF History PAGE" : "",
+
+    "Exchange History" : "История обмена",
+    "No result found!" : "Результатов не найдено!",
+    
+    "START OF Contact Us Page" : "",
+    "Contact Us":"Связаться с нами",
+
+
+    "START OF Exchange Detail PAGE" : "",
+
+    "Exchange from_coin_name to to_coin_name":"Обмен :from_coin_name на :to_coin_name",
+    "Exchange from_coin_name to to_coin_name instantly, without registration and hidden fees. Full automation, maximum speed and the best exchange rates.":"Обмен :from_coin_name на :to_coin_name мгновенно, без регистрации и скрытых комиссий. Полная автоматизация, максимальная скорость и лучшие курсы обмена.",
+    "ChainSwap":"ChainSwap",
+    
+    "Exchange from_coin to to_coin":"Обмен :from_coin на :to_coin",
+    
+    "from_coin to to_coin Swap":":from_coin на :to_coin Обмен",
+
+    "Exchange in 3 steps":"Обмен в 3 шага",
+
+    "Enter the desired amount of from_coin and write your wallet address to receive currency.":"Введите желаемую сумму :from_coin и напишите адрес своего кошелька для получения валюты.",
+    "Click the \"Exchange now\" button and you will be taken inside your order.":"Нажмите кнопку «Обменять сейчас», и вы перейдете к своему заказу.",
+
+    "Send from_coin to the address from your order, after the required network confirmation, to_coin will be sent instantly.":"Отправьте :from_coin на адрес из вашего заказа. После необходимого подтверждения сети :to_coin будет отправлен мгновенно.",
+    
+    "What do you need to know?":"Что вам нужно знать?",
+    "You need 2 confirmations of the from_coin blockchain for the exchange":"Для обмена необходимо 2 подтверждения блокчейна from_coin",
+    "When sending to_coin Payment ID, you do not need to enter, we use integrated wallets":"При отправке :to_coin ID платежа вводить не нужно, мы используем интегрированные кошельки",
+    "The speed of confirmation of a to_coin transaction depends on the level of congestion of the to_coin blockchain network, read more in our":"Скорость подтверждения транзакции :to_coin зависит от уровня загруженности сети блокчейна :to_coin, подробнее читайте в нашем",
+    "article":"статья",
+    "Overview":"Обзор",
+    "Resources":"Ресурсы",
+    "Whitepaper":"Белая бумага",
+    "Official website":"Официальный веб-сайт",
+    "Market":"Рынок",
+    "MARKET CAP":"РЫНОЧНАЯ КАПИТАЛИЗАЦИЯ",
+    "VOLUME (24H)":"ОБЪЕМ (24 Ч)",
+    "PRICE":"ЦЕНА",
+    "HIGH (24H)":"ВЫСОКИЙ (24Ч)",
+    "LOW (24H)":"НИЗКИЙ (24 Ч)",
+    "Conversion tables":"Таблицы преобразования",
+    "from_coin to to_coin Conversion Table":"Таблица преобразования :from_coin в :to_coin",
+    "to_coin to from_coin Conversion Table":"Таблица преобразования :to_coin в :from_coin",
+    "Last update":"Последнее обновление",
+    "Name":"Имя",
+    "Symbol":"Символ",
+    "Circulating supply":"Оборотное снабжение",
+    "Max supply":"Макс. поставка",
+    "CMC rank":"Ранг СМС",
+    "Market Capital":"Рыночный капитал",
+    "Full Diluted Market Capital":"Полный разводненный рыночный капитал",
+    "from_coin to to_coin calculator":"Калькулятор :from_coin to :to_coin",
+
+    "Investors and hustlers always crunch the numbers before diving into digital deals. Need to know the scoop on your from_coin to to_coin move? Glide over to chainswap.io converter!":"Инвесторы и мошенники всегда подсчитывают цифры, прежде чем приступить к цифровым сделкам. Хотите узнать подробности вашего перемещения :from_coin на :to_coin? Перейдите к конвертеру Chainswap.io!",
+   
+    "With its sleek interface, you can swap from_coin for to_coin in a snap, pinning down those buy and sell figures. Don't sweat the math—this tool's got your back for lightning fast profitability predictions!":"Благодаря элегантному интерфейсу вы можете мгновенно поменять :from_coin на :to_coin, фиксируя цифры покупок и продаж. Не беспокойтесь о математике — этот инструмент поможет вам молниеносно прогнозировать прибыльность!",
+    
+    "How to Convert from_coin to to_coin":"Как конвертировать :from_coin в :to_coin",
+
+    
+    "Transforming your from_coin_name (from_coin_symbol) into to_coin_name (to_coin_symbol) is a breeze with our online exchange platform. Just follow these quick and easy steps to make the switch hassle-free:":"Преобразовать ваш :from_coin_name (:from_coin_symbol) в :to_coin_name (:to_coin_symbol) очень просто с помощью нашей онлайн-платформы обмена. Просто следуйте этим быстрым и простым шагам, чтобы сделать переключение без проблем:",
+
+    "Step 1: Select from_coin_symbol from the dropdown menu on the left side of the exchanger, and to_coin_symbol from the dropdown menu on the right side. Then, simply enter the amount you want to convert from from_coin_symbol to to_coin_symbol,and let the calculator do the rest—it'll instantly show you how much to_coin_symbol you'll receive for your from_coin_symbol! Easy as pie.":"Шаг 1: Выберите :from_coin_symbol из выпадающего меню слева от обменника и :to_coin_symbol из выпадающего меню справа. Затем просто введите сумму, которую вы хотите конвертировать из :from_coin_symbol в :to_coin_symbol, и позвольте калькулятору сделать все остальное — он мгновенно покажет вам, сколько :to_coin_symbol вы получите за ваш :from_coin_symbol! Проще простого.",
+     
+    "Step 2: Pop your to_coin_symbol wallet address into the designated field to ensure you receive the converted amount from from_coin_symbol to to_coin_symbol. Then, hit that \"Exchange\" button to kickstart the process. Watch as the magic unfolds your order to swap from_coin_symbol to to_coin_symbol is now in motion!":"Шаг 2. Введите адрес своего кошелька :to_coin_symbol в соответствующее поле, чтобы убедиться, что вы получили конвертированную сумму из :from_coin_symbol в :to_coin_symbol. Затем нажмите кнопку «Обменять», чтобы начать процесс. Посмотрите, как разворачивается волшебство: ваш заказ на обмен :from_coin_symbol на :to_coin_symbol уже в движении!",
+
+    "Step 3: Hold tight for the next stage! We'll send you a deposit address where you'll transfer the from_coin_symbol amount you're looking to exchange. Once that's done, keep an eye out for your transaction ID we'll notify you as soon as it's confirmed!":"Шаг 3: Держитесь крепче для следующего этапа! Мы вышлем вам адрес депозита, на который вы переведете сумму :from_coin_symbol, которую хотите обменять. Как только это будет сделано, следите за идентификатором вашей транзакции, мы сообщим вам, как только он будет подтвержден!",
+
+    "Step 4: Throughout the entire transaction journey, rest assured we guarantee a fixed from_coin_symbol to to_coin_symbol rate from start to finish. No surprises, just smooth sailing all the way to completion!":"Шаг 4. Будьте уверены, что на протяжении всего процесса транзакции мы гарантируем фиксированную ставку от :from_coin_symbol до :to_coin_symbol от начала до конца. Никаких сюрпризов, просто плавное движение до завершения!",
+    
+    "Step 5: Get ready to welcome to_coin_symbol straight into the wallet you specified at the start, complete with all the order details and its duration. Your crypto journey is almost complete just a few more moments till your to_coin_symbol arrives!":"Шаг 5: Будьте готовы приветствовать :to_coin_symbol прямо в кошельке, который вы указали вначале, со всеми деталями заказа и его продолжительностью. Ваше крипто-путешествие почти завершено, осталось всего несколько мгновений до прибытия вашего :to_coin_symbol!",
+    
+    "Easy and fast!":"Легко и быстро!",
+
+
+
+    "How to Convert from_coin to to_coin ?":"Как конвертировать :from_coin в :to_coin?",
+    "from_coin_symbol to to_coin_symbol Price Details":":from_coin_symbol to :to_coin_symbol Подробности о цене",
+
+    "Live from_coin_symbol to to_coin_symbol Price":"Текущая цена :from_coin_symbol до :to_coin_symbol",
+
+    "Unlock real-time insights into from_coin_symbol to to_coin_symbol rate fluctuations with chainswap.io! Check out the latest closing rates for from_coin_symbol to to_coin_symbol right here. Plus, with chainswap, explore the actual volume of from_coin_symbol to to_coin_symbol transactions, giving you the pulse of the crypto market at your fingertips.":"Получите ценную информацию о колебаниях курса :from_coin_symbol до :to_coin_symbol в режиме реального времени с помощью Chainswap.io! Ознакомьтесь с последними курсами закрытия для :from_coin_symbol по :to_coin_symbol прямо здесь. Кроме того, с помощью Chainswap вы сможете изучить фактический объем транзакций :from_coin_symbol до :to_coin_symbol, что позволит вам всегда быть в курсе криптовалютного рынка.",
+
+    "Convert from_coin_symbol to to_coin_name at the Best Rates":"Конвертируйте :from_coin_symbol в :to_coin_name по лучшим курсам",
+
+    "Rest easy with ChainSwap exchange service—all exchanges are utterly secure. With a proven track record and top-notch reviews, we've earned a spotless reputation and a wealth of positive feedback. Exchange not only from_coin_name for to_coin_name, but also over 200 other crypto coins across 40,000+ trade pairs! Our system keeps an eye on the best rates in real-time from major platforms like Bitfinex, HITBtc, Binance, and more, ensuring you the ultimate exchange experience. Say goodbye to market volatility we offer a fixed exchange rate that remains steady until your transaction is complete. Safe, reliable, and hassle free that's the ChainSwap promise.":"Будьте спокойны с обменным сервисом ChainSwap — все обмены абсолютно безопасны. Благодаря проверенной репутации и первоклассным отзывам мы заслужили безупречную репутацию и множество положительных отзывов. Обменивайте не только :from_coin_name на :to_coin_name, но и более 200 других криптовалют в более чем 40 000 торговых парах! Наша система отслеживает в режиме реального времени лучшие курсы на основных платформах, таких как Bitfinex, HITBtc, Binance и других, обеспечивая вам максимальный опыт обмена. Попрощайтесь с волатильностью рынка: мы предлагаем фиксированный обменный курс, который остается стабильным до завершения вашей транзакции. Безопасность, надежность и простота — вот обещание ChainSwap.",
+    
+    "from_coin_name Vs to_coin_name Exchange Benefits":"Преимущества обмена :from_coin_name против :to_coin_name",
+
+    "Experience anonymous, lightning-fast, and secure exchanges with ChainSwap. Our dedicated support team is available round-the-clock, ensuring that any transaction inquiries are swiftly addressed, typically within minutes. With the launch of the ChainSwap mobile app for iOS and Android, access to digital coin rates is at your fingertips from any smart device. This convenient feature appeals to traders seeking swift and lucrative crypto transactions and exchanges. Convert from_coin_symbol to to_coin_symbol at the most competitive rates with ChainSwap, where the exchange process operates seamlessly like a Swiss watch.":"Оцените анонимный, молниеносный и безопасный обмен с помощью ChainSwap. Наша специализированная группа поддержки доступна круглосуточно, гарантируя быстрое решение любых запросов по транзакциям, обычно в течение нескольких минут. С запуском мобильного приложения ChainSwap для iOS и Android доступ к курсам цифровых монет у вас под рукой с любого интеллектуального устройства. Эта удобная функция понравится трейдерам, которые ищут быстрые и прибыльные криптотранзакции и обмены. Конвертируйте :from_coin_symbol в :to_coin_symbol по самым выгодным курсам с помощью ChainSwap, где процесс обмена работает плавно, как швейцарские часы.",
+
+    "If you're looking to sell from_coin_symbol and snag some to_coin_name, look no further than the integrated ChainSwap price calculator. With just one click, you'll see exactly how much to_coin_name you'll score after specifying the amount of from_coin_name you're itching to exchange. It's that simple!":"Если вы хотите продать :from_coin_symbol и получить немного :to_coin_name, не ищите ничего, кроме встроенного калькулятора цен ChainSwap. Всего одним щелчком мыши вы увидите, сколько именно :to_coin_name вы получите, указав сумму :from_coin_name, которую вы хотите обменять. Это так просто!",
+
+    "To secure the best rates for our clients, ChainSwap collaborates with top-tier crypto exchanges. This partnership allows us to provide relevant trading details and exchange rate comparisons, ensuring you get the most out of your transactions.":"Чтобы обеспечить лучшие ставки для наших клиентов, ChainSwap сотрудничает с ведущими криптобиржами. Это партнерство позволяет нам предоставлять соответствующую торговую информацию и сравнение обменных курсов, гарантируя, что вы получите максимальную отдачу от своих транзакций.",
+    
+    "The circulating supply of from_coin_name stands at from_circulating_supply USD coins out of a maximum supply of from_coin_max_supply USD coins. Meanwhile, to_coin_name boasts a circulating supply of to_coin_circulating_supply USD with no defined maximum supply.":"В обращении имеется :from_coin_name монет в долларах США: from_circulation_supply из максимального количества монет в долларах США :from_coin_max_supply. Между тем, :to_coin_name может похвастаться оборотным запасом :to_coin_circulation_supply в долларах США без определенного максимального количества.",
+     
+    "Percentage price change":"Процентное изменение цены",
+
+    "Over the past 24 hours, the from_coin_name rate has experienced a change of day_valume USD, and over all market capital is from_marketCap USD":"За последние 24 часа курс :from_coin_name изменился на :day_valume USD, а общий рыночный капитал составил :from_marketCap USD.",
+
+    "Over the past 24 hours, the to_coin_name rate has changed by day_to_volume USD, and over all market capital is to_marketCap USD":"За последние 24 часа курс :to_coin_name изменился на :day_to_volume USD, а общий рыночный капитал составил :to_marketCap USD.",
+    
+    "How from_coin_name to to_coin_name calculator works":"Как работает калькулятор :from_coin_name to :to_coin_name",
+
+    "A cryptocurrency converter streamlines the process of understanding the relative values of different digital currencies. Simply input the desired amount into the designated field of the chainswap calculator, and voila! You'll instantly see the real-time conversion results, making it easy to gauge the cost of one cryptocurrency in terms of another.":"Конвертер криптовалют упрощает процесс понимания относительной стоимости различных цифровых валют. Просто введите желаемую сумму в соответствующее поле калькулятора цепного обмена и вуаля! Вы мгновенно увидите результаты конвертации в режиме реального времени, что позволит легко оценить стоимость одной криптовалюты по отношению к другой.",
+
+    "For the convenience of users, the chainswap immediately shows the values of the main types of digital money, so that you can independently calculate or check the obtained  amounts. The calculator saves the time, indicating actual values on conversion of from_coin_symbol to to_coin_symbol":"Для удобства пользователей Chainswap сразу показывает значения основных видов цифровых денег, чтобы вы могли самостоятельно посчитать или проверить полученные суммы. Калькулятор экономит время, указывая фактические значения при конвертации :from_coin_symbol в :to_coin_symbol.",
+    "Volume 24h":"Объем 24 часа",
+
+
+    "How it work":"",
+
+    "Choose the crypto exchange pair":"Выберите криптовалютную пару",
+    
+    "Let's assume you have Bitcoin and you want to have Ethereum.":"Предположим, у вас есть Биткойн и вы хотите иметь Эфириум.",
+    
+    "Here is how the ETH to BTC exchange process takes place on Chainswap.":"Вот как происходит процесс обмена ETH на BTC на Chainswap.",
+    
+    "Enter the recipient's address":"Введите адрес получателя",
+    
+    "Now you need to enter the recipient's Ethereum address. Be extremely careful and double-check your ETH address. Your Ethereum coins will be sent to this address right after the exchange.":"Теперь вам нужно ввести адрес Ethereum получателя. Будьте предельно осторожны и дважды проверьте свой адрес ETH. Ваши монеты Ethereum будут отправлены на этот адрес сразу после обмена.",
+    
+    "Send and receive cryptocurrencies":"Отправляйте и получайте криптовалюту",
+    
+    "On the exchange page, you will see the address to send the indicated amount of Bitcoins to continue the exchange.":"На странице обмена вы увидите адрес для отправки указанного количества Биткоинов для продолжения обмена.",
+    
+    "Receive cryptocurrency":"Получить криптовалюту",
+    
+    "When the swap process is over and the exchange is successfully finished, you will get the desired crypto.":"Когда процесс обмена завершится и обмен будет успешно завершен, вы получите желаемую криптовалюту.",
+
+    "Exchange Detail Page SEO Data":"",
+
+    "from_coin_symbol to to_coin_symbol swap Exchange from_coin_name to to_coin_name anonymously Chainswap":"Обмен :from_coin_symbol на :to_coin_symbol Обмен :from_coin_name на :to_coin_name анонимно Chainswap",
+
+    "Quickly and easily swap from_coin_name to to_coin_name without registration. Anonymous from_coin_symbol to to_coin_symbol Exchange online ➤ Best from_coin_symbol to to_coin_symbol exchange rate on Chainswap.io.":"Быстро и легко замените :from_coin_name на :to_coin_name без регистрации. Анонимно :from_coin_symbol на :to_coin_symbol Обмен онлайн ➤ Лучший курс обмена :from_coin_symbol на :to_coin_symbol на Chainswap.io.",
+
+
+    "SUSSCEE/ERROR MESSAGE":"",
+
+    "Oops something went wrong, please try again later.":"К сожалению, что-то пошло не так, повторите попытку позже.",
+   
+    "Oops this coin is temporarily suspended, please try again after sometime.":"К сожалению, эта монета временно заблокирована. Повторите попытку через некоторое время.",
+   
+    "Oops the min amount should be min_amount currency_from":"К сожалению, минимальная сумма должна быть :min sum :currency from",
+   
+    "Oops something went wrong, please contact to support.":"К сожалению, что-то пошло не так, обратитесь в поддержку.",
+
+    "Please enter valid to address.":"Пожалуйста, введите действительный адрес.",
+
+    "Oops this order id do not exist.":"К сожалению, этот идентификатор заказа не существует.",
+
+    
+    "WHAT TYPE OF NETWORK DO YOU WANT TO RECIEVE to_coin FROM?":"ИЗ КАКОГО ТИПА СЕТИ ВЫ ХОТИТЕ ПОЛУЧАТЬ :to_coin?",
+
+    "WHAT TYPE OF NETWORK DO YOU WANT TO SEND from_coin TO?":"КАКОЙ ТИП СЕТИ ВЫ ХОТИТЕ ОТПРАВИТЬ :from_coin?",
+
+    "Enter to_coin Address":"Введите адрес: to_coin",
+
+    "Enter Refund Address":"Введите адрес возврата",
+
+    "Type a cryptocurrency or ticker":"Введите криптовалюту или тикер",
+
+
+    "START OF FOOTER" : "",
+
+    "Select Language" : "Выберите язык",
+    "Quick Links" : "Быстрые ссылки",
+    "PGP":"ПГП",
+    "PGP SIGN":"ЗНАК PGP",
+    "FAQ" : "Часто задаваемые вопросы",
+    "Reviews" : "Отзывы",
+    "Crypto Pairs":"Криптопары",
+    "Terms of Service" : "Условия использования",
+    "Privacy Policy" : "политика конфиденциальности"
+
+}

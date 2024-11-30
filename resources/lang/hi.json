@@ -1,0 +1,217 @@
+{
+    "START OF HEADER": "",
+
+    "Logo": "लोगो",
+    "How it works": "यह कैसे काम करता है",
+    "Home": "होम",
+    "About Us": "हमारे बारे में",
+    "History": "इतिहास",
+    "Exchange": "विनिमय",
+    "Contact": "संपर्क",
+
+    "START OF HOME PAGE": "",
+
+    "Start exchange": "विनिमय शुरू करें",
+    "You Send": "आप भेजते हैं",
+    "You Get": "आपको मिलता है",
+    "Exchange rate": "विनिमय दर",
+
+    "Enter XMR address": "XMR पता दर्ज करें",
+    "Enter Refund Address": "वापसी का पता दर्ज करें",
+
+    "Exchange_notes": "सभी आरक्षित धन हमारे स्वामित्व में हैं और वर्तमान में हमारी बटुए/नोड्स पर आवंटित हैं। हम तृतीय-पक्ष द्रवियता प्रदाताओं पर निर्भरता के बिना स्वतंत्र रूप से काम करते हैं। कोई भी KYC, SOF, आईपी लॉग नहीं।",
+
+    "No-KYC Crypto Exchange": "कोई KYC क्रिप्टो विनिमय",
+    "Effortless, Anonymous, Hassle-Free Crypto Exchange": "अथक, अनामत, परेशानी मुक्त क्रिप्टो विनिमय",
+    "ChainSwap Empowering Limitless Web3.0 Crypto Exchange": "ChainSwap असीमित वेब3.0 क्रिप्टो विनिमय को सशक्त करता है",
+    "Private": "निजी",
+    "No registration, email, or account required—just your crypto address.": "कोई पंजीकरण, ईमेल, या खाता आवश्यक नहीं — केवल आपका क्रिप्टो पता।",
+    "Fast": "तेज़",
+    "Swap over 150+ cryptocurrencies instantly to your wallet.": "अपने वॉलेट में 150 से अधिक क्रिप्टोकरेंसी को तुरंत विनिमय करें।",
+    "Safe": "सुरक्षित",
+    "You retain full control over your funds and data—we prioritize your privacy without tracking.": "आपके धन और डेटा पर पूरा नियंत्रण रहता है — हम आपकी निजता को ट्रैक किए बिना प्राथमिकता देते हैं।",
+    "Start Swap Now": "अब स्वैप शुरू करें",
+    "Featured on": "पर प्रमुख",
+
+    "Enter Amount": "राशि दर्ज करें",
+    "Type a cryptocurrency or ticker": "कोई क्रिप्टोकरेंसी या टिकर टाइप करें",
+    "Not Found": "नहीं मिला",
+    "Limit Less": "सीमा नहीं",
+    "Dynamic Rate": "गतिशील दर",
+
+    "START OF ABOUT PAGE": "",
+
+    "Got any questions?": "कोई सवाल है?",
+    "Don't hesitate to get in touch.": "संपर्क में आने से हिचकिचाएं नहीं।",
+    "How It Works?": "यह कैसे काम करता है?",
+    "Select": "चुनें",
+    "Choose the cryptocurrency you wish to exchange on ChainSwap.io.": "ChainSwap.io पर विनिमय करनी चाहती हैं क्रिप्टोकरेंसी चुनें।",
+    "Enter": "दर्ज करें",
+    "Please enter the correct address for the specific coin to send to.": "कृपया भेजने के लिए विशिष्ट सिक्के के लिए सही पता दर्ज करें।",
+    "Exchange": "विनिमय",
+    "Double-check the entered address and coin. Then, press the \"EXCHANGE\" button.": "दर्ज किए गए पते और सिक्का दोबारा जांचें। फिर, \"विनिमय\" बटन दबाएं।",
+
+    "START OF History PAGE": "",
+
+    "START OF Contact Us Page": "",
+    "Contact Us": "संपर्क करें",
+
+    "Exchange History": "विनिमय इतिहास",
+    "No result found!": "कोई परिणाम नहीं मिला!",
+
+    "START OF Exchange Detail PAGE": "",
+
+    "Exchange from_coin_name to to_coin_name":"विनिमय :from_coin_name से :to_coin_name",
+    "Exchange from_coin_name to to_coin_name instantly, without registration and hidden fees. Full automation, maximum speed and the best exchange rates.":"पंजीकरण और छिपी हुई फीस के बिना, तुरंत :from_coin_name से :to_coin_name तक एक्सचेंज करें। पूर्ण स्वचालन, अधिकतम गति और सर्वोत्तम विनिमय दरें।",
+    "ChainSwap":"चेनस्वैप",
+
+    "Exchange from_coin to to_coin": ":from_coin से :to_coin का विनिमय",
+
+    "from_coin to to_coin Swap":":from_coin से :to_coin तक स्वैप",
+
+    "Exchange in 3 steps": "3 कदमों में विनिमय",
+    "Enter the desired amount of from_coin and write your wallet address to receive currency.": ":from_coin की इच्छित राशि दर्ज करें और मुद्रा प्राप्त करने के लिए अपना वॉलेट पता लिखें।",
+    "Click the \"Exchange now\" button and you will be taken inside your order.": "\"अभी विनिमय करें\" बटन पर क्लिक करें और आप अपने आदेश के अंदर ले जाए जाएंगे।",
+    "Send from_coin to the address from your order, after the required network confirmation, to_coin will be sent instantly.": "अपने आदेश के पते पर :from_coin भेजें, आवश्यक नेटवर्क पुष्टिकरण के बाद, :to_coin तुरंत भेज दिया जाएगा।",
+    "What do you need to know?": "आपको क्या जानना चाहिए?",
+    "You need 2 confirmations of the from_coin blockchain for the exchange": "आपको विनिमय के लिए :from_coin ब्लॉकचेन की 2 पुष्टिकरण की आवश्यकता है",
+    "When sending to_coin Payment ID, you do not need to enter, we use integrated wallets": "जब आप :to_coin भुगतान आईडी भेजते हैं, तो आपको दर्ज करने की आवश्यकता नहीं है, हम एकीकृत वॉलेट का उपयोग करते हैं",
+    "The speed of confirmation of a to_coin transaction depends on the level of congestion of the to_coin blockchain network, read more in our": ":to_coin लेनदेन की पुष्टि की गति :to_coin ब्लॉकचेन नेटवर्क के योगदान के स्तर पर निर्भर करती है, हमारे अधिक जानने के लिए पढ़ें",
+    "article": "लेख",
+    "Overview": "अवलोकन",
+    "Resources": "संसाधन",
+    "Whitepaper": "सफेद पेपर",
+    "Official website": "आधिकारिक वेबसाइट",
+    "Market": "बाजार",
+    "MARKET CAP": "बाजार की मानकीय सीमा",
+    "VOLUME (24H)": "मात्रा (24घंटे)",
+    "PRICE": "मूल्य",
+    "HIGH (24H)": "उच्च (24घंटे)",
+    "LOW (24H)": "निम्न (24घंटे)",
+    "Conversion tables": "परिवर्तन सारणी",
+    "from_coin to to_coin Conversion Table": ":from_coin से :to_coin परिवर्तन सारणी",
+    "to_coin to from_coin Conversion Table": ":to_coin से :from_coin परिवर्तन सारणी",
+     "Last update": "अंतिम अपडेट",
+    "Name": "नाम",
+    "Symbol": "प्रतीक",
+    "Circulating supply": "घूर्णन सप्लाई",
+    "Max supply": "अधिकतम आपूर्ति",
+    "CMC rank": "सीएमसी श्रेणी",
+    "Market Capital": "बाजार की मानकीय सीमा",
+    "Full Diluted Market Capital": "पूर्ण प्रसारित बाजार की मानकीय सीमा",
+    "from_coin to to_coin calculator": ":from_coin से :to_coin कैलकुलेटर",
+    "Investors and hustlers always crunch the numbers before diving into digital deals. Need to know the scoop on your from_coin to to_coin move? Glide over to chainswap.io converter!": "निवेशकों और हस्तक्षेपियों को डिजिटल सौदों में डुबकी लगाने से पहले हमेशा नंबरों का मूल्यांकन करना होता है। आपके :from_coin से :to_coin मूव पर सूचना चाहिए? chainswap.io कनवर्टर पर चलें!",
+    "With its sleek interface, you can swap from_coin for to_coin in a snap, pinning down those buy and sell figures. Don't sweat the math—this tool's got your back for lightning-fast profitability predictions!": "इसके स्लीक इंटरफेस के साथ, आप तुरंत :from_coin को :to_coin में स्वैप कर सकते हैं, खरीद और बेचने के आंकड़े बांध सकते हैं। गणित को स्वेत करने की आवश्यकता नहीं है — यह उपकरण आपके लिए चमकदार लाभकारी पूर्वानुमान के लिए है!",
+    
+    "How to Convert from_coin to to_coin": "कैसे :from_coin से :to_coin में परिवर्तित करें",
+    "Transforming your from_coin_name (from_coin_symbol) into to_coin_name (to_coin_symbol) is a breeze with our online exchange platform. Just follow these quick and easy steps to make the switch hassle-free:": "आपके :from_coin_name (:from_coin_symbol) को :to_coin_name (:to_coin_symbol) में परिवर्तित करना हमारे ऑनलाइन एक्सचेंज प्लेटफ़ॉर्म के साथ एक ब्रीज है। सिर्फ इन तेज़ और आसान कदमों का पालन करें और स्विच को हासिल करें: हसल मुक्त:",
+    "Step 1: Select from_coin_symbol from the dropdown menu on the left side of the exchanger, and to_coin_symbol from the dropdown menu on the right side. Then, simply enter the amount you want to convert from from_coin_symbol to to_coin_symbol, and let the calculator do the rest—it'll instantly show you how much to_coin_symbol you'll receive for your from_coin_symbol! Easy as pie.": "चरण 1: एक्सचेंजर के बाएं ओर के ड्रॉपडाउन मेनू से from_coin_symbol का चयन करें, और सही ओर के ड्रॉपडाउन मेनू से to_coin_symbol का चयन करें। फिर, बस वह राशि दर्ज करें जिसे आप from_coin_symbol से to_coin_symbol में परिवर्तित करना चाहते हैं, और आगे का काम कैलकुलेटर करेगा - यह तुरंत दिखाएगा कि आपको अपने from_coin_symbol के लिए कितने to_coin_symbol प्राप्त होंगे! पाई की तरह आसान।",
+    "Step 2: Pop your to_coin_symbol wallet address into the designated field to ensure you receive the converted amount from from_coin_symbol to to_coin_symbol. Then, hit that \"Exchange\" button to kickstart the process. Watch as the magic unfolds your order to swap from_coin_symbol to to_coin_symbol is now in motion!": "चरण 2: यह सुनिश्चित करने के लिए कि आपको from_coin_symbol से to_coin_symbol में परिवर्तित राशि प्राप्त हो रही है, अपने to_coin_symbol वॉलेट पते को निर्दिष्ट फ़ील्ड में डालें। फिर, प्रक्रिया शुरू करने के लिए उस \"एक्सचेंज\" बटन को दबाएं। देखो जैसे जादू खुलता है, सिक्का प्रतीक से सिक्का प्रतीक में बदलने का आपका ऑर्डर अब चालू हो गया है!",
+    
+    "Step 3: Hold tight for the next stage! We'll send you a deposit address where you'll transfer the from_coin_symbol amount you're looking to exchange. Once that's done, keep an eye out for your transaction ID we'll notify you as soon as it's confirmed!": "चरण 3: अगले चरण के लिए मजबूती से पकड़ें! हम आपको एक जमा पता भेजेंगे जहां आप from_coin_symbol राशि को स्वैप करने के लिए खोज रहे हैं, उसे स्थानांतरित करेंगे। जब यह हो जाएगा, अपने लेन-देन आईडी के लिए ध्यान रखें हम आपको जैसे ही यह पुष्टि हो जाती है, सूचित करेंगे!",
+    
+    "Step 4: Throughout the entire transaction journey, rest assured we guarantee a fixed from_coin_symbol to to_coin_symbol rate from start to finish. No surprises, just smooth sailing all the way to completion!": "चरण 4: पूरे लेन-देन के सफर के दौरान, आपको पूर्ण संकोच के साथ पूरी तरह से यह भरोसा है कि हम शुरुआत से लेकर अंत तक एक निश्चित from_coin_symbol से to_coin_symbol दर गारंटी करते हैं। कोई आश्चर्य, बस पूरी तरह से स्मूथ सेलिंग समाप्ति की ओर सभी तरह से!",
+    "Step 5: Get ready to welcome to_coin_symbol straight into the wallet you specified at the start, complete with all the order details and its duration. Your crypto journey is almost complete just a few more moments till your to_coin_symbol arrives!": "चरण 5: आरंभ में आपने निर्दिष्ट वॉलेट में सीधे to_coin_symbol का स्वागत करने के लिए तैयार रहें, सभी आदेश विवरण और इसकी अवधि के साथ। आपका क्रिप्टो सफर लगभग पूरा हो चुका है, कुछ और क्षण हैं जब तक आपका to_coin_symbol आता है!",
+    "Easy and fast!": "आसान और तेज",
+
+    "How to Convert from_coin to to_coin ?":":from_coin को :to_coin में कैसे परिवर्तित करें?",
+    "from_coin_symbol to to_coin_symbol Price Details":":from_coin_symbol से :to_coin_symbol मूल्य विवरण",
+
+    "Live from_coin_symbol to to_coin_symbol Price":"लाइव :from_coin_symbol से :to_coin_symbol मूल्य तक",
+
+    "Unlock real-time insights into from_coin_symbol to to_coin_symbol rate fluctuations with chainswap.io! Check out the latest closing rates for from_coin_symbol to to_coin_symbol right here. Plus, with chainswap, explore the actual volume of from_coin_symbol to to_coin_symbol transactions, giving you the pulse of the crypto market at your fingertips.":"चेनस्वैप.आईओ के साथ :from_coin_symbol से :to_coin_symbol दर में उतार-चढ़ाव की वास्तविक समय की जानकारी अनलॉक करें! :from_coin_symbol से :to_coin_symbol के लिए नवीनतम समापन दरें यहीं देखें। साथ ही, चेनस्वैप के साथ, :from_coin_symbol से :to_coin_symbol लेनदेन की वास्तविक मात्रा का पता लगाएं, जिससे आपको अपनी उंगलियों पर क्रिप्टो बाजार की नब्ज मिलती है।",
+
+    "Convert from_coin_symbol to to_coin_name at the Best Rates":"सर्वोत्तम दरों पर :from_coin_symbol को :to_coin_name में बदलें",
+
+    "Rest easy with ChainSwap exchange service—all exchanges are utterly secure. With a proven track record and top-notch reviews, we've earned a spotless reputation and a wealth of positive feedback. Exchange not only from_coin_name for to_coin_name, but also over 200 other crypto coins across 40,000+ trade pairs! Our system keeps an eye on the best rates in real-time from major platforms like Bitfinex, HITBtc, Binance, and more, ensuring you the ultimate exchange experience. Say goodbye to market volatility we offer a fixed exchange rate that remains steady until your transaction is complete. Safe, reliable, and hassle free that's the ChainSwap promise.":"चेनस्वैप एक्सचेंज सेवा के साथ निश्चिंत रहें - सभी एक्सचेंज पूरी तरह से सुरक्षित हैं। एक सिद्ध ट्रैक रिकॉर्ड और शीर्ष स्तरीय समीक्षाओं के साथ, हमने बेदाग प्रतिष्ठा और ढेर सारी सकारात्मक प्रतिक्रिया अर्जित की है। न केवल :from_coin_name को :to_coin_name से बदलें, बल्कि 40,000+ व्यापार जोड़े में 200 से अधिक अन्य क्रिप्टो सिक्के भी बदलें! हमारा सिस्टम Bitfinex, HITBtc, Binance और अन्य प्रमुख प्लेटफार्मों से वास्तविक समय में सर्वोत्तम दरों पर नज़र रखता है, जिससे आपको सर्वोत्तम विनिमय अनुभव सुनिश्चित होता है। बाज़ार की अस्थिरता को अलविदा कहें, हम एक निश्चित विनिमय दर प्रदान करते हैं जो आपका लेनदेन पूरा होने तक स्थिर रहती है। सुरक्षित, विश्वसनीय और परेशानी मुक्त यही चेनस्वैप का वादा है।",
+    
+    "from_coin_name Vs to_coin_name Exchange Benefits":":from_coin_name बनाम :to_coin_name विनिमय लाभ",
+
+    "Experience anonymous, lightning-fast, and secure exchanges with ChainSwap. Our dedicated support team is available round-the-clock, ensuring that any transaction inquiries are swiftly addressed, typically within minutes. With the launch of the ChainSwap mobile app for iOS and Android, access to digital coin rates is at your fingertips from any smart device. This convenient feature appeals to traders seeking swift and lucrative crypto transactions and exchanges. Convert from_coin_symbol to to_coin_symbol at the most competitive rates with ChainSwap, where the exchange process operates seamlessly like a Swiss watch.":"चेनस्वैप के साथ गुमनाम, बिजली की तेजी से और सुरक्षित आदान-प्रदान का अनुभव करें। हमारी समर्पित सहायता टीम चौबीसों घंटे उपलब्ध है, यह सुनिश्चित करते हुए कि किसी भी लेनदेन संबंधी पूछताछ का तेजी से समाधान किया जाए, आमतौर पर मिनटों के भीतर। आईओएस और एंड्रॉइड के लिए चेनस्वैप मोबाइल ऐप के लॉन्च के साथ, किसी भी स्मार्ट डिवाइस से डिजिटल सिक्का दरों तक पहुंच आपकी उंगलियों पर है। यह सुविधाजनक सुविधा तेज़ और आकर्षक क्रिप्टो लेनदेन और एक्सचेंज चाहने वाले व्यापारियों को आकर्षित करती है। चेनस्वैप के साथ सबसे अधिक प्रतिस्पर्धी दरों पर :from_coin_symbol को :to_coin_symbol में बदलें, जहां विनिमय प्रक्रिया स्विस घड़ी की तरह निर्बाध रूप से संचालित होती है।",
+
+    "If you're looking to sell from_coin_symbol and snag some to_coin_name, look no further than the integrated ChainSwap price calculator. With just one click, you'll see exactly how much to_coin_name you'll score after specifying the amount of from_coin_name you're itching to exchange. It's that simple!":"यदि आप :from_coin_symbol बेचना चाहते हैं और कुछ :to_coin_name लेना चाहते हैं, तो एकीकृत चेनस्वैप मूल्य कैलकुलेटर के अलावा और कुछ न देखें। केवल एक क्लिक से, आप देखेंगे कि :from_coin_name की वह मात्रा निर्दिष्ट करने के बाद आप कितना :to_coin_name स्कोर करेंगे जिसे आप एक्सचेंज करना चाहते हैं। यह इतना आसान है!",
+
+    "To secure the best rates for our clients, ChainSwap collaborates with top-tier crypto exchanges. This partnership allows us to provide relevant trading details and exchange rate comparisons, ensuring you get the most out of your transactions.":"अपने ग्राहकों के लिए सर्वोत्तम दरें सुरक्षित करने के लिए, चेनस्वैप शीर्ष स्तरीय क्रिप्टो एक्सचेंजों के साथ सहयोग करता है। यह साझेदारी हमें प्रासंगिक व्यापारिक विवरण और विनिमय दर तुलना प्रदान करने की अनुमति देती है, जिससे यह सुनिश्चित होता है कि आप अपने लेनदेन से अधिकतम लाभ प्राप्त कर सकें।",
+    
+    "The circulating supply of from_coin_name stands at from_circulating_supply USD coins out of a maximum supply of from_coin_max_supply USD coins. Meanwhile, to_coin_name boasts a circulating supply of to_coin_circulating_supply USD with no defined maximum supply.":":from_coin_name की परिसंचारी आपूर्ति :from_circulated_supply USD सिक्कों की अधिकतम आपूर्ति में से :from_coin_max_supply USD सिक्कों पर आधारित है। इस बीच, :to_coin_name बिना किसी परिभाषित अधिकतम आपूर्ति के :to_coin_circulated_supply USD की परिसंचारी आपूर्ति का दावा करता है।",
+     
+    "Percentage price change":"प्रतिशत मूल्य परिवर्तन",
+
+    "Over the past 24 hours, the from_coin_name rate has experienced a change of day_valume USD, and over all market capital is from_marketCap USD":"पिछले 24 घंटों में, :from_coin_name दर में :day_value USD का परिवर्तन हुआ है, और कुल मिलाकर बाजार पूंजी :from_marketCap USD है।",
+
+    "Over the past 24 hours, the to_coin_name rate has changed by day_to_volume USD, and over all market capital is to_marketCap USD":"पिछले 24 घंटों में, :to_coin_name दर में :day_to_volume USD का परिवर्तन हुआ है, और कुल मिलाकर बाजार पूंजी :to_marketCap USD है",
+    
+    "How from_coin_name to to_coin_name calculator works":":from_coin_name से :to_coin_name कैलकुलेटर कैसे काम करता है",
+
+    "A cryptocurrency converter streamlines the process of understanding the relative values of different digital currencies. Simply input the desired amount into the designated field of the chainswap calculator, and voila! You'll instantly see the real-time conversion results, making it easy to gauge the cost of one cryptocurrency in terms of another.":"एक क्रिप्टोकरेंसी कनवर्टर विभिन्न डिजिटल मुद्राओं के सापेक्ष मूल्यों को समझने की प्रक्रिया को सुव्यवस्थित करता है। बस चेनस्वैप कैलकुलेटर के निर्दिष्ट क्षेत्र में वांछित राशि दर्ज करें, और वोइला! आप तुरंत वास्तविक समय रूपांतरण परिणाम देखेंगे, जिससे एक क्रिप्टोकरेंसी की लागत को दूसरे के संदर्भ में मापना आसान हो जाएगा।",
+
+    "For the convenience of users, the chainswap immediately shows the values of the main types of digital money, so that you can independently calculate or check the obtained  amounts. The calculator saves the time, indicating actual values on conversion of from_coin_symbol to to_coin_symbol":"उपयोगकर्ताओं की सुविधा के लिए, चेनस्वैप मुख्य प्रकार के डिजिटल पैसे के मूल्यों को तुरंत दिखाता है, ताकि आप प्राप्त राशियों की स्वतंत्र रूप से गणना या जांच कर सकें। कैलकुलेटर समय बचाता है, :from_coin_symbol को :to_coin_symbol में बदलने पर वास्तविक मान दर्शाता है",
+    "Volume 24h":"खंड 24 घंटे",
+
+
+    "How it work":"",
+
+    "Choose the crypto exchange pair":"क्रिप्टो एक्सचेंज जोड़ी चुनें",
+    
+    "Let's assume you have Bitcoin and you want to have Ethereum.":"मान लीजिए कि आपके पास बिटकॉइन है और आप एथेरियम लेना चाहते हैं।",
+    
+    "Here is how the ETH to BTC exchange process takes place on Chainswap.":"यहां बताया गया है कि चेनस्वैप पर ईटीएच से बीटीसी विनिमय प्रक्रिया कैसे होती है।",
+    
+    "Enter the recipient's address":"प्राप्तकर्ता का पता दर्ज करें",
+    
+    "Now you need to enter the recipient's Ethereum address. Be extremely careful and double-check your ETH address. Your Ethereum coins will be sent to this address right after the exchange.":"अब आपको प्राप्तकर्ता का एथेरियम पता दर्ज करना होगा। बेहद सावधान रहें और अपने ईटीएच पते की दोबारा जांच करें। आपके एथेरियम सिक्के एक्सचेंज के तुरंत बाद इस पते पर भेज दिए जाएंगे।",
+    
+    "Send and receive cryptocurrencies":"क्रिप्टोकरेंसी भेजें और प्राप्त करें",
+    
+    "On the exchange page, you will see the address to send the indicated amount of Bitcoins to continue the exchange.":"एक्सचेंज पेज पर, आपको एक्सचेंज जारी रखने के लिए बिटकॉइन की संकेतित मात्रा भेजने का पता दिखाई देगा।",
+    
+    "Receive cryptocurrency":"क्रिप्टोकरेंसी प्राप्त करें",
+    
+    "When the swap process is over and the exchange is successfully finished, you will get the desired crypto.":"जब स्वैप प्रक्रिया समाप्त हो जाएगी और एक्सचेंज सफलतापूर्वक समाप्त हो जाएगा, तो आपको वांछित क्रिप्टो मिल जाएगा।",
+
+
+    "Exchange Detail Page SEO Data":"",
+
+    "from_coin_symbol to to_coin_symbol swap Exchange from_coin_name to to_coin_name anonymously Chainswap":":from_coin_symbol से :to_coin_symbol स्वैप एक्सचेंज :from_coin_name से :to_coin_name तक गुमनाम रूप से चेनस्वैप",
+
+    "Quickly and easily swap from_coin_name to to_coin_name without registration. Anonymous from_coin_symbol to to_coin_symbol Exchange online ➤ Best from_coin_symbol to to_coin_symbol exchange rate on Chainswap.io.":"बिना पंजीकरण के :from_coin_name से :to_coin_name पर त्वरित और आसानी से स्वैप करें। अज्ञात :from_coin_symbol से :to_coin_symbol तक ऑनलाइन एक्सचेंज ➤ Best :from_coin_symbol से :to_coin_symbol तक Changeswap.io पर विनिमय दर।",
+
+   
+    "SUSSCEE/ERROR MESSAGE":"",
+
+    "Oops something went wrong, please try again later.":"ओह, कुछ ग़लत हो गया, कृपया बाद में पुनः प्रयास करें।",
+   
+    "Oops this coin is temporarily suspended, please try again after sometime.":"ओह! यह सिक्का अस्थायी रूप से निलंबित है, कृपया कुछ समय बाद पुनः प्रयास करें।",
+   
+    "Oops the min amount should be min_amount currency_from":"ओह, न्यूनतम राशि होनी चाहिए: न्यूनतम राशि: मुद्रा",
+   
+    "Oops something went wrong, please contact to support.":"ओह, कुछ ग़लत हो गया, कृपया सहायता के लिए संपर्क करें।",
+
+    "Please enter valid to address.":"कृपया मान्य पता दर्ज करें.",
+
+    "Oops this order id do not exist.":"ओह! यह ऑर्डर आईडी मौजूद नहीं है।",
+
+    "WHAT TYPE OF NETWORK DO YOU WANT TO RECIEVE to_coin FROM?":"आप किस प्रकार के नेटवर्क से :to_coin प्राप्त करना चाहते हैं?",
+
+    "WHAT TYPE OF NETWORK DO YOU WANT TO SEND from_coin TO?":"आप किस प्रकार के नेटवर्क पर :from_coin भेजना चाहते हैं?",
+
+    "Enter to_coin Address":":to_coin पता दर्ज करें",
+
+    "Enter Refund Address":"रिफ़ंड पता दर्ज करें",
+
+    "Type a cryptocurrency or ticker":"क्रिप्टोकरेंसी या टिकर टाइप करें",
+
+     
+
+    "START OF FOOTER" : "",
+
+    "Select Language" : "भाषा चुने",
+    "Quick Links" : "त्वरित सम्पक",
+    "PGP":"PGP",
+    "PGP SIGN":"पीजीपी साइन",
+    "FAQ" : "सामान्य प्रश्न",
+    "Reviews" : "समीक्षा",
+    "Crypto Pairs":"क्रिप्टो जोड़े",
+    "Terms of Services" : "सेवा की शर्तें",
+    "Privacy Policy" : "गोपनीयता नीति"
+}

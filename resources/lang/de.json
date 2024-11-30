@@ -1,0 +1,223 @@
+{
+    "START OF HEADER" : "",
+
+    "Logo" : "Logo",
+    "How it works" : "Wie es funktioniert",
+    "Home" : "Heim",
+    "About Us" : "Über uns",
+    "History" : "Geschichte",
+    "Exchange" : "Austausch",
+    "Contact" : "Kontakt",
+
+    "START OF HOME PAGE" : "",
+
+    "Start exchange":"Austausch starten",
+    "You Send":"Du sendest",
+    "You Get":"Du erhältst",
+    "Exchange rate":"Tauschrate",
+
+    "Enter XMR address":"",
+    "Enter Refund Address":"Rückerstattungsadresse eingeben",
+    
+    "Exchange_notes":"Alle aufgeführten Reserven sind unser Eigentum und derzeit auf unsere Wallets/Knoten verteilt. Wir arbeiten unabhängig und sind nicht auf Liquiditätsanbieter von Drittanbietern angewiesen. KEIN KYC, SOF. IP-Protokoll.",
+   
+    "No-KYC Crypto Exchange":"No-KYC-Krypto-Börse",
+    "Effortless, Anonymous, Hassle-Free Crypto Exchange":"Müheloser, anonymer und problemloser Krypto-Austausch",
+    "ChainSwap Empowering Limitless Web3.0 Crypto Exchange":"ChainSwap ermöglicht grenzenlosen Web3.0-Krypto-Austausch",
+    "Private":"Privat",
+    "No registration, email, or account required—just your crypto address.":"No registration, email, or account required—just your crypto address.",
+    "Fast":"Fast",
+    "Swap over 150+ cryptocurrencies instantly to your wallet.":"Tauschen Sie über 150 Kryptowährungen sofort in Ihr Wallet.",
+    "Safe":"Sicher",
+    "You retain full control over your funds and data—we prioritize your privacy without tracking.":"Sie behalten die volle Kontrolle über Ihre Gelder und Daten – Ihre Privatsphäre hat für uns oberste Priorität, ohne dass es zu einer Nachverfolgung kommt.",
+    "Start Swap Now":"Jetzt mit dem Tausch beginnen",
+    "Featured on":"Erschienen auf",
+
+    "Enter Amount":"Menge eingeben",
+    "Type a cryptocurrency or ticker":"Geben Sie eine Kryptowährung oder einen Ticker ein",
+    "Not Found":"Nicht gefunden",
+    "Limit Less":"Weniger einschränken",
+    "Dynamic Rate":"Dynamische Rate",
+
+
+    "START OF ABOUT PAGE" : "",
+    
+    "Got any questions?" : "Sie haben Fragen?",
+    "Don't hesitate to get in touch." : "Zögern Sie nicht, Kontakt mit uns aufzunehmen.",
+    "How It Works?" : "Wie es funktioniert?",
+    "Select" : "Wählen",
+    "Choose the cryptocurrency you wish to exchange on ChainSwap.io." : "Wählen Sie die Kryptowährung, die Sie auf ChainSwap.io umtauschen möchten.",
+    "Enter" : "Eingeben",
+    "Please enter the correct address for the specific coin to send to." : "Bitte geben Sie die richtige Adresse für die jeweilige Münze ein, an die gesendet werden soll.",
+    "Exchange":"Austausch",
+    "Double-check the entered address and coin. Then, press the \"EXCHANGE\" button." : "Überprüfen Sie die eingegebene Adresse und Münze noch einmal. Drücken Sie dann die Schaltfläche „EXCHANGE“.",
+    
+    "START OF History PAGE" : "",
+
+    "START OF Contact Us Page" : "",
+    "Contact Us":"Kontaktiere uns",
+
+    "Exchange History" : "Börsenverlauf",
+    "No result found!" : "Keine Einträge gefunden!",
+
+    "START OF Exchange Detail PAGE" : "",
+
+    "Exchange from_coin_name to to_coin_name":"Tauschen Sie :from_coin_name in :to_coin_name aus",
+    "Exchange from_coin_name to to_coin_name instantly, without registration and hidden fees. Full automation, maximum speed and the best exchange rates.":"Tauschen Sie :from_coin_name sofort in :to_coin_name um, ohne Registrierung und versteckte Gebühren. Vollständige Automatisierung, maximale Geschwindigkeit und die besten Wechselkurse.",
+    "ChainSwap":"ChainSwap",
+
+    "Exchange from_coin to to_coin":"Tauschen Sie :from_coin in :to_coin um",
+
+    "from_coin to to_coin Swap":":von_Münze nach :zu_Münze Tauschen",
+
+
+    "Exchange in 3 steps":"Austausch in 3 Schritten",
+    "Enter the desired amount of from_coin and write your wallet address to receive currency.":"Geben Sie den gewünschten Betrag an :from_coin ein und schreiben Sie Ihre Wallet-Adresse, um Währung zu erhalten.",
+    "Click the \"Exchange now\" button and you will be taken inside your order.":"Klicken Sie auf die Schaltfläche „Jetzt umtauschen“ und Sie gelangen in Ihre Bestellung.",
+    "Send from_coin to the address from your order, after the required network confirmation, to_coin will be sent instantly.":"Senden Sie :from_coin an die Adresse aus Ihrer Bestellung. Nach der erforderlichen Netzwerkbestätigung wird :to_coin sofort gesendet.",
+    "What do you need to know?":"Was musst du wissen?",
+    "You need 2 confirmations of the from_coin blockchain for the exchange":"Sie benötigen 2 Bestätigungen der from_coin Blockchain für den Umtausch",
+    "When sending to_coin Payment ID, you do not need to enter, we use integrated wallets":"Beim Senden von :to_coin müssen Sie die Zahlungs-ID nicht eingeben, wir verwenden integrierte Geldbörsen",
+    "The speed of confirmation of a to_coin transaction depends on the level of congestion of the to_coin blockchain network, read more in our":"Die Geschwindigkeit der Bestätigung einer :to_coin-Transaktion hängt vom Grad der Überlastung des :to_coin-Blockchain-Netzwerks ab. Weitere Informationen finden Sie in unserem",
+    "article":"Artikel",
+   
+    "Overview":"Überblick",
+    "Resources":"Ressourcen",
+    "Whitepaper":"Weißes Papier",
+    "Official website":"Offizielle Website",
+    "Market":"Markt",
+    "MARKET CAP":"MARKTKAPITALISIERUNG",
+    "VOLUME (24H)":"VOLUMEN (24H)",
+    "PRICE":"PREIS",
+    "HIGH (24H)":"HOCH (24H)",
+    "LOW (24H)":"NIEDRIG (24H)",
+    "Conversion tables":"Umrechnungstabellen",
+    "from_coin to to_coin Conversion Table":":from_coin nach :to_coin Konvertierungstabelle",
+    "to_coin to from_coin Conversion Table":":to_coin zu :from_coin Konvertierungstabelle",
+    "Last update":"Letztes Update",
+    "Name":"Name",
+    "Symbol":"Symbol",
+    "Circulating supply":"Umlaufmenge",
+    "Max supply":"Maximale Versorgung",
+    "CMC rank":"CMC-Rang",
+    "Market Capital":"Marktkapitalisierung",
+    "Full Diluted Market Capital":"Vollständig verwässertes Marktkapital",
+    "from_coin to to_coin calculator":":from_coin zu:to_coin Rechner",
+    "Investors and hustlers always crunch the numbers before diving into digital deals. Need to know the scoop on your from_coin to to_coin move? Glide over to chainswap.io converter!":"Investoren und Gauner prüfen immer die Zahlen, bevor sie sich in digitale Geschäfte stürzen. Sie möchten die Details zu Ihrem Wechsel von :from_coin zu :to_coin erfahren? Gleiten Sie zum chainswap.io-Konverter!",
+    "With its sleek interface, you can swap from_coin for to_coin in a snap, pinning down those buy and sell figures. Don't sweat the math—this tool's got your back for lightning fast profitability predictions!":"Mit seiner eleganten Benutzeroberfläche können Sie :from_coin im Handumdrehen gegen :to_coin austauschen und so die Kauf- und Verkaufszahlen festlegen. Machen Sie sich keine Gedanken über die Mathematik – dieses Tool unterstützt Sie bei blitzschnellen Rentabilitätsprognosen!",
+    
+    "How to Convert from_coin to to_coin":"So konvertieren Sie :from_coin in :to_coin",
+
+
+    "Transforming your from_coin_name (from_coin_symbol) into to_coin_name (to_coin_symbol) is a breeze with our online exchange platform. Just follow these quick and easy steps to make the switch hassle-free:":"Mit unserer Online-Tauschplattform ist die Umwandlung Ihres :from_coin_name (:from_coin_symbol) in :to_coin_name (:to_coin_symbol) ein Kinderspiel. Befolgen Sie einfach diese schnellen und einfachen Schritte, um den Wechsel problemlos durchzuführen:",
+
+    "Step 1: Select from_coin_symbol from the dropdown menu on the left side of the exchanger, and to_coin_symbol from the dropdown menu on the right side. Then, simply enter the amount you want to convert from from_coin_symbol to to_coin_symbol,and let the calculator do the rest—it'll instantly show you how much to_coin_symbol you'll receive for your from_coin_symbol! Easy as pie.":"Schritt 1: Wählen Sie :from_coin_symbol aus dem Dropdown-Menü auf der linken Seite des Umtauschers und :to_coin_symbol aus dem Dropdown-Menü auf der rechten Seite. Geben Sie dann einfach den Betrag ein, den Sie von :from_coin_symbol in :to_coin_symbol umwandeln möchten, und überlassen Sie den Rest dem Rechner – er zeigt Ihnen sofort an, wie viel :to_coin_symbol Sie für Ihr :from_coin_symbol erhalten! Kinderleicht.",
+     
+    "Step 2: Pop your to_coin_symbol wallet address into the designated field to ensure you receive the converted amount from from_coin_symbol to to_coin_symbol. Then, hit that \"Exchange\" button to kickstart the process. Watch as the magic unfolds your order to swap from_coin_symbol to to_coin_symbol is now in motion!":"Schritt 2: Geben Sie Ihre :to_coin_symbol-Wallet-Adresse in das dafür vorgesehene Feld ein, um sicherzustellen, dass Sie den umgerechneten Betrag von :from_coin_symbol nach :to_coin_symbol erhalten. Klicken Sie dann auf die Schaltfläche „Umtauschen“, um den Vorgang zu starten. Beobachten Sie, wie sich die Magie entfaltet und Ihr Auftrag zum Umtausch von :from_coin_symbol nach :to_coin_symbol nun in Bewegung gesetzt wird!",
+
+    "Step 3: Hold tight for the next stage! We'll send you a deposit address where you'll transfer the from_coin_symbol amount you're looking to exchange. Once that's done, keep an eye out for your transaction ID we'll notify you as soon as it's confirmed!":"Schritt 3: Warten Sie auf den nächsten Schritt! Wir senden Ihnen eine Einzahlungsadresse, an die Sie den :from_coin_symbol-Betrag überweisen, den Sie umtauschen möchten. Achten Sie danach auf Ihre Transaktions-ID. Wir benachrichtigen Sie, sobald sie bestätigt ist!",
+
+    "Step 4: Throughout the entire transaction journey, rest assured we guarantee a fixed from_coin_symbol to to_coin_symbol rate from start to finish. No surprises, just smooth sailing all the way to completion!":"Schritt 4: Sie können sicher sein, dass wir während der gesamten Transaktion einen festen Kurs von Anfang bis Ende garantieren. Keine Überraschungen, sondern ein reibungsloser Ablauf bis zum Abschluss!",
+    
+    "Step 5: Get ready to welcome to_coin_symbol straight into the wallet you specified at the start, complete with all the order details and its duration. Your crypto journey is almost complete just a few more moments till your to_coin_symbol arrives!":"Schritt 5: Machen Sie sich bereit, :to_coin_symbol direkt in der Wallet willkommen zu heißen, die Sie zu Beginn angegeben haben, komplett mit allen Bestelldetails und der Dauer. Ihre Krypto-Reise ist fast abgeschlossen, nur noch ein paar Augenblicke, bis Ihr :to_coin_symbol eintrifft!",
+    
+    "Easy and fast!":"Einfach und schnell!",
+
+    "How to Convert from_coin to to_coin ?":"Wie konvertiere ich :from_coin in :to_coin?",
+    "from_coin_symbol to to_coin_symbol Price Details":":from_coin_symbol bis :to_coin_symbol Preisdetails",
+
+    "Live from_coin_symbol to to_coin_symbol Price":"Live :from_coin_symbol bis :to_coin_symbol Preis",
+
+    "Unlock real-time insights into from_coin_symbol to to_coin_symbol rate fluctuations with chainswap.io! Check out the latest closing rates for from_coin_symbol to to_coin_symbol right here. Plus, with chainswap, explore the actual volume of from_coin_symbol to to_coin_symbol transactions, giving you the pulse of the crypto market at your fingertips.":"Erhalten Sie mit chainswap.io Echtzeiteinblicke in die Kursschwankungen von :from_coin_symbol zu :to_coin_symbol! Sehen Sie sich hier die neuesten Schlusskurse für :from_coin_symbol zu :to_coin_symbol an. Außerdem können Sie mit chainswap das tatsächliche Volumen der Transaktionen von :from_coin_symbol zu :to_coin_symbol erkunden, sodass Sie immer den Puls des Kryptomarktes im Blick haben.",
+
+    "Convert from_coin_symbol to to_coin_name at the Best Rates":"Konvertieren Sie :from_coin_symbol in :to_coin_name zu den besten Kursen",
+
+    "Rest easy with ChainSwap exchange service—all exchanges are utterly secure. With a proven track record and top-notch reviews, we've earned a spotless reputation and a wealth of positive feedback. Exchange not only from_coin_name for to_coin_name, but also over 200 other crypto coins across 40,000+ trade pairs! Our system keeps an eye on the best rates in real-time from major platforms like Bitfinex, HITBtc, Binance, and more, ensuring you the ultimate exchange experience. Say goodbye to market volatility we offer a fixed exchange rate that remains steady until your transaction is complete. Safe, reliable, and hassle free that's the ChainSwap promise.":"Mit dem ChainSwap-Wechselservice können Sie sich beruhigt zurücklehnen – alle Umtauschvorgänge sind absolut sicher. Mit einer nachgewiesenen Erfolgsbilanz und erstklassigen Bewertungen haben wir uns einen makellosen Ruf und eine Fülle positiver Rückmeldungen erarbeitet. Tauschen Sie nicht nur :from_coin_name gegen :to_coin_name, sondern auch über 200 andere Kryptomünzen in über 40.000 Handelspaaren! Unser System behält die besten Kurse in Echtzeit von großen Plattformen wie Bitfinex, HITBtc, Binance und mehr im Auge und garantiert Ihnen so das ultimative Umtauscherlebnis. Verabschieden Sie sich von der Marktvolatilität, wir bieten einen festen Wechselkurs, der stabil bleibt, bis Ihre Transaktion abgeschlossen ist. Sicher, zuverlässig und problemlos – das ist das ChainSwap-Versprechen.",
+    
+    "from_coin_name Vs to_coin_name Exchange Benefits":"Vorteile des :from_coin_name vs. :to_coin_nameUmtausches",
+
+    "Experience anonymous, lightning-fast, and secure exchanges with ChainSwap. Our dedicated support team is available round-the-clock, ensuring that any transaction inquiries are swiftly addressed, typically within minutes. With the launch of the ChainSwap mobile app for iOS and Android, access to digital coin rates is at your fingertips from any smart device. This convenient feature appeals to traders seeking swift and lucrative crypto transactions and exchanges. Convert from_coin_symbol to to_coin_symbol at the most competitive rates with ChainSwap, where the exchange process operates seamlessly like a Swiss watch.":"Erleben Sie anonyme, blitzschnelle und sichere Transaktionen mit ChainSwap. Unser engagiertes Supportteam ist rund um die Uhr verfügbar und stellt sicher, dass alle Transaktionsanfragen schnell, in der Regel innerhalb von Minuten, beantwortet werden. Mit der Einführung der ChainSwap-App für iOS und Android haben Sie von jedem Smartgerät aus Zugriff auf die Kurse digitaler Münzen. Diese praktische Funktion spricht Händler an, die schnelle und lukrative Kryptotransaktionen und -börsen suchen. Konvertieren Sie :from_coin_symbol in :to_coin_symbol zu den wettbewerbsfähigsten Kursen mit ChainSwap, wo der Umtauschprozess nahtlos wie ein Schweizer Uhrwerk funktioniert.",
+
+    "If you're looking to sell from_coin_symbol and snag some to_coin_name, look no further than the integrated ChainSwap price calculator. With just one click, you'll see exactly how much to_coin_name you'll score after specifying the amount of from_coin_name you're itching to exchange. It's that simple!":"Wenn Sie :from_coin_symbol verkaufen und sich :to_coin_name schnappen möchten, brauchen Sie nicht weiter zu suchen, denn der integrierte ChainSwap-Preisrechner ist die Lösung. Mit nur einem Klick sehen Sie genau, wie viel :to_coin_name Sie erzielen, nachdem Sie die Menge an :from_coin_name angegeben haben, die Sie umtauschen möchten. So einfach ist das!",
+
+    "To secure the best rates for our clients, ChainSwap collaborates with top-tier crypto exchanges. This partnership allows us to provide relevant trading details and exchange rate comparisons, ensuring you get the most out of your transactions.":"Um unseren Kunden die besten Kurse zu sichern, arbeitet ChainSwap mit erstklassigen Krypto-Börsen zusammen. Diese Partnerschaft ermöglicht es uns, relevante Handelsdetails und Wechselkursvergleiche bereitzustellen, damit Sie das Beste aus Ihren Transaktionen herausholen können.",
+    
+    "The circulating supply of from_coin_name stands at from_circulating_supply USD coins out of a maximum supply of from_coin_max_supply USD coins. Meanwhile, to_coin_name boasts a circulating supply of to_coin_circulating_supply USD with no defined maximum supply.":"Der Umlaufbestand an :from_coin_name beträgt :from_circulating_supply USD-Münzen bei einem maximalen Bestand von :from_coin_max_supply USD-Münzen. Unterdessen verfügt :to_coin_name über einen Umlaufbestand von :to_coin_circulating_supply USD ohne definierten maximalen Bestand.",
+     
+    "Percentage price change":"Prozentuale Preisänderung",
+
+    "Over the past 24 hours, the from_coin_name rate has experienced a change of day_valume USD, and over all market capital is from_marketCap USD":"In den letzten 24 Stunden hat sich der Kurs von :from_coin_name um :day_valume USD geändert, und das gesamte Marktkapital beträgt :from_marketCap USD",
+
+    "Over the past 24 hours, the to_coin_name rate has changed by day_to_volume USD, and over all market capital is to_marketCap USD":"In den letzten 24 Stunden hat sich der Kurs von :to_coin_name um :day_to_volume USD geändert, und das gesamte Marktkapital beträgt :to_marketCap USD",
+    
+    "How from_coin_name to to_coin_name calculator works":"So funktioniert der Rechner :from_coin_name zu :to_coin_name",
+
+    "A cryptocurrency converter streamlines the process of understanding the relative values of different digital currencies. Simply input the desired amount into the designated field of the chainswap calculator, and voila! You'll instantly see the real-time conversion results, making it easy to gauge the cost of one cryptocurrency in terms of another.":"Ein Kryptowährungskonverter vereinfacht den Prozess des Verstehens der relativen Werte verschiedener digitaler Währungen. Geben Sie einfach den gewünschten Betrag in das dafür vorgesehene Feld des Chainswap-Rechners ein, und voilà! Sie sehen sofort die Konvertierungsergebnisse in Echtzeit, sodass Sie die Kosten einer Kryptowährung im Verhältnis zu einer anderen leicht einschätzen können.",
+
+    "For the convenience of users, the chainswap immediately shows the values of the main types of digital money, so that you can independently calculate or check the obtained  amounts. The calculator saves the time, indicating actual values on conversion of from_coin_symbol to to_coin_symbol":"Zur Vereinfachung der Benutzer zeigt der Chainswap sofort die Werte der wichtigsten Arten von digitalem Geld an, sodass Sie die erhaltenen Beträge selbst berechnen oder überprüfen können. Der Rechner spart Zeit und zeigt die tatsächlichen Werte bei der Konvertierung von :from_coin_symbol in :to_coin_symbol an.",
+    "Volume 24h":"Volumen 24h",
+
+    "How it work":"",
+
+    "Choose the crypto exchange pair":"Wählen Sie das Krypto-Austauschpaar",
+    
+    "Let's assume you have Bitcoin and you want to have Ethereum.":"Nehmen wir an, Sie haben Bitcoin und möchten Ethereum haben.",
+    
+    "Here is how the ETH to BTC exchange process takes place on Chainswap.":"So läuft der ETH-zu-BTC-Austauschprozess auf Chainswap ab.",
+    
+    "Enter the recipient's address":"Geben Sie die Adresse des Empfängers ein",
+    
+    "Now you need to enter the recipient's Ethereum address. Be extremely careful and double-check your ETH address. Your Ethereum coins will be sent to this address right after the exchange.":"Jetzt müssen Sie die Ethereum-Adresse des Empfängers eingeben. Seien Sie äußerst vorsichtig und überprüfen Sie Ihre ETH-Adresse noch einmal. Ihre Ethereum-Coins werden direkt nach dem Umtausch an diese Adresse gesendet.",
+    
+    "Send and receive cryptocurrencies":"Senden und empfangen Sie Kryptowährungen",
+    
+    "On the exchange page, you will see the address to send the indicated amount of Bitcoins to continue the exchange.":"Auf der Umtauschseite sehen Sie die Adresse, an die Sie die angegebene Menge an Bitcoins senden müssen, um den Umtausch fortzusetzen.",
+    
+    "Receive cryptocurrency":"Erhalten Sie Kryptowährung",
+    
+    "When the swap process is over and the exchange is successfully finished, you will get the desired crypto.":"Wenn der Tauschvorgang abgeschlossen und der Tausch erfolgreich abgeschlossen ist, erhalten Sie die gewünschte Kryptowährung.",
+
+    "Exchange Detail Page SEO Data":"",
+
+    "from_coin_symbol to to_coin_symbol swap Exchange from_coin_name to to_coin_name anonymously Chainswap":":from_coin_symbol to :to_coin_symbol swap Exchange :from_coin_name to :to_coin_name anonym Chainswap",
+
+    "Quickly and easily swap from_coin_name to to_coin_name without registration. Anonymous from_coin_symbol to to_coin_symbol Exchange online ➤ Best from_coin_symbol to to_coin_symbol exchange rate on Chainswap.io.":"Tauschen Sie schnell und einfach :from_coin_name zu :to_coin_name ohne Registrierung. Anonymer Austausch von :from_coin_symbol zu :to_coin_symbol online ➤ Bester Wechselkurs von :from_coin_symbol zu :to_coin_symbol auf Chainswap.io.",
+
+
+    "SUSSCEE/ERROR MESSAGE":"",
+
+    "Oops something went wrong, please try again later.":"Hoppla, da ist etwas schiefgelaufen. Bitte versuchen Sie es später noch einmal.",
+   
+    "Oops this coin is temporarily suspended, please try again after sometime.":"Hoppla, diese Münze ist vorübergehend gesperrt. Bitte versuchen Sie es später erneut.",
+   
+    "Oops the min amount should be min_amount currency_from":"Ups, der Mindestbetrag sollte sein: Mindestbetrag: Währung von",
+   
+    "Oops something went wrong, please contact to support.":"Hoppla, da ist etwas schiefgelaufen. Bitte wenden Sie sich an den Support.",
+
+    "Please enter valid to address.":"Bitte geben Sie eine gültige Empfängeradresse ein.",
+
+    "Oops this order id do not exist.":"Hoppla, diese Bestell-ID existiert nicht.",
+
+    "WHAT TYPE OF NETWORK DO YOU WANT TO RECIEVE to_coin FROM?":"VON WELCHER ART VON NETZWERK MÖCHTEN SIE :to_coin ERHALTEN?",
+
+    "WHAT TYPE OF NETWORK DO YOU WANT TO SEND from_coin TO?":"AN WELCHE ART VON NETZWERK MÖCHTEN SIE :from_coin SENDEN?",
+
+    "Enter to_coin Address":"Geben Sie die :to_coin-Adresse ein",
+
+    "Enter Refund Address":"Rückerstattungsadresse eingeben",
+
+    "Type a cryptocurrency or ticker":"Geben Sie eine Kryptowährung oder einen Ticker ein",
+
+
+    "START OF FOOTER" : "",
+
+    "Select Language" : "Sprache auswählen",
+    "Quick Links" : "Direktlinks",
+    "PGP":"PGP",
+    "PGP SIGN":"PGP-ZEICHEN",
+    "FAQ" : "FAQ",
+    "Reviews" : "Bewertungen",
+    "Crypto Pairs":"Krypto-Paare",
+    "Terms of Services" : "Nutzungsbedingungen",
+    "Privacy Policy" : "Datenschutzrichtlinie"
+}

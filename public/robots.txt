@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: */forgot-password*
+Disallow: */password-reset*
+Disallow: /api/
+Disallow: /500.html
+Disallow: */?__cf_*
+Disallow: /get-pair-rate
+Disallow: /get-exchange-amount
+
+User-agent: Bingbot
+Disallow: */forgot-password*
+Disallow: */password-reset*
+Disallow: /api/
+Disallow: /500.html
+Disallow: */?__cf_*
+
+User-agent: Slurp
+Disallow: */forgot-password*
+Disallow: */password-reset*
+Disallow: /api/
+Disallow: /500.html
+Disallow: */?__cf_*
+
+Sitemap: https://chainswap.io/sitemap.xml

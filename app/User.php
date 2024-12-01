@@ -91,4 +91,8 @@ class User extends Authenticatable
             return asset('assets/backend/images/default-avatar.jpg');
         }
     }
+
+    public function roles(){
+        $this->belongsToMany(Role::class,'user_role');
+    }
 }

@@ -3,7 +3,6 @@
 ## Installation Guide
    
 ### Create ENV file ###
-sudo nano .env
 
 ### Install Composer ###
 composer install

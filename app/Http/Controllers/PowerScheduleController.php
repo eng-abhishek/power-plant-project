@@ -22,18 +22,18 @@ class PowerScheduleController extends Controller
 	public function index(Request $request){
 
 		if($request->ajax()){
-             
+
 			$row = Schedule::with('users','plants')->OrderBy('id','desc')->where('user_id',Auth::user()->id)->latest();
 
 			return DataTables::of($row)
 
 			->addIndexColumn()
 
-		    ->addColumn('plantname',function($row){
+			->addColumn('plantname',function($row){
 				return $row->plants->name;
 			})
 
-		    ->addColumn('scheduled_power',function($row){
+			->addColumn('scheduled_power',function($row){
 				return $row->scheduled_power." MW";
 			})
 
@@ -80,29 +80,29 @@ class PowerScheduleController extends Controller
 			]);
 
 			$blocks = $request->block_range;
-            
-            $block_array = [];
 
-            for($i=1;$i<=$blocks;$i++){
-            
-            $block_array[$i]['block_number'] = $i;
-            $block_array[$i]['schdule_id'] = $insert->id;
-            $block_array[$i]['created_at'] = now();
+			$block_array = [];
 
-            }
-            
-            /* insert block number */             
-             BlockNumber::insert($block_array);
+			for($i=1;$i<=$blocks;$i++){
+
+				$block_array[$i]['block_number'] = $i;
+				$block_array[$i]['schdule_id'] = $insert->id;
+				$block_array[$i]['created_at'] = now();
+
+			}
+
+			/* insert block number */             
+			BlockNumber::insert($block_array);
 
 
-            $email = Auth::user()->email;
-            $name = Auth::user()->name;
+			$email = Auth::user()->email;
+			$name = Auth::user()->name;
 
 			dispatch(new SendSchduledNotification($email,$name,$request->scheduled_power));
-            
+
 			if($request->ajax()){
-                
-                return response()->json(['status' => 'success', 'message' => 'Schedule created successfully.']);
+
+				return response()->json(['status' => 'success', 'message' => 'Schedule created successfully.']);
 
 			}else{
 				return redirect()->route('schedule.index')->with(['status' => 'success', 'message' => 'Schedule created successfully.']);
@@ -110,14 +110,14 @@ class PowerScheduleController extends Controller
 
 		}catch (\Exception $e) {
 
-		if($request->ajax()){
+			if($request->ajax()){
 
-		return response()->json(['status' => 'danger', 'message' => 'Something went wrong, please try again.']);
+				return response()->json(['status' => 'danger', 'message' => 'Something went wrong, please try again.']);
 
-		}else{
+			}else{
 
-		return redirect()->route('schedule.create')->with(['status' => 'danger', 'message' => 'Something went wrong, please try again.']);
-		}
+				return redirect()->route('schedule.create')->with(['status' => 'danger', 'message' => 'Something went wrong, please try again.']);
+			}
 		}
 	}
 
@@ -126,17 +126,17 @@ class PowerScheduleController extends Controller
 
 		$data['record'] = Schedule::find($id);
 		$data['plants'] = PowerPlant::all();
-	
-	    if($request->ajax()){
-         
-         $view = view('power_schdule.ajax_edit_form', $data)->render();
-         
-         return response()->json(['status'=>'success','data'=>$view,'message'=>'']);
+
+		if($request->ajax()){
+
+			$view = view('power_schdule.ajax_edit_form', $data)->render();
+
+			return response()->json(['status'=>'success','data'=>$view,'message'=>'']);
 
 		}else{
-	    
-	    return view('power_schdule.edit', $data);
-		
+
+			return view('power_schdule.edit', $data);
+
 		}
 
 	}
@@ -146,36 +146,52 @@ class PowerScheduleController extends Controller
 		try {
 
 			$record = array(
-			    'user_id' => Auth::user()->id,
+				'user_id' => Auth::user()->id,
 				'plant_id' => $request->plant_id,
 				'date' => $request->date,
 				'scheduled_power' => $request->scheduled_power,
 			);
 
-            $blocks = $request->block_range;
+			$blocks = $request->block_range;
 
-            for($i=1;$i<=$blocks;$i++){
-            
-            $block_array[$i]['block_number'] = $i;
-            $block_array[$i]['schdule_id'] = $id;
-            $block_array[$i]['created_at'] = now();
+			for($i=1;$i<=$blocks;$i++){
 
-            }
+				$block_array[$i]['block_number'] = $i;
+				$block_array[$i]['schdule_id'] = $id;
+				$block_array[$i]['created_at'] = now();
 
-            /* remove previous record */
-            BlockNumber::where('schdule_id',$id)->delete();
+			}
+
+			/* remove previous record */
+			BlockNumber::where('schdule_id',$id)->delete();
 
 
-            /* insert block number */             
-             BlockNumber::insert($block_array);
+			/* insert block number */             
+			BlockNumber::insert($block_array);
 
 
 			Schedule::where('id',$id)->update($record);
 
-			return redirect()->route('schedule.index')->with(['status' => 'success', 'message' => 'Schedule created successfully.']);
+			if($request->ajax()){
+
+				return response()->json(['status' => 'success', 'message' => 'Schedule updated successfully.']);
+
+			}else{
+
+				return redirect()->route('schedule.index')->with(['status' => 'success', 'message' => 'Schedule updated successfully.']);	
+			}
 
 		} catch (\Exception $e) {
-			return redirect()->route('schedule.create')->with(['status' => 'danger', 'message' => 'Something went wrong, please try again.']);
+
+			if($request->ajax()){
+
+				return response()->json(['status' => 'danger', 'message' => 'Something went wrong, please try again.']);
+
+			}else{
+
+				return redirect()->route('schedule.create')->with(['status' => 'danger', 'message' => 'Something went wrong, please try again.']);
+			}
+			
 		}
 	}
 
@@ -190,31 +206,32 @@ class PowerScheduleController extends Controller
 	}
 
 	public function getCSV()
-    {
-        return Excel::download(new PlantScheduleExport, 'power-scheduling-report.xlsx');
-    }
+	{
+		return Excel::download(new PlantScheduleExport, 'power-scheduling-report.xlsx');
+	}
 
-    public function withAjaxSchedule(){
-     $data['plants'] = PowerPlant::all();
-     return view('power_schdule.create_power_schedule_with_ajax',$data);
-    }
+	public function withAjaxSchedule(){
+		$data['plants'] = PowerPlant::all();
+
+		return view('power_schdule.create_power_schedule_with_ajax',$data);
+	}
 
 
-    public function ajaxListing(Request $request){
+	public function ajaxListing(Request $request){
 
-    	if($request->ajax()){
-             
+		if($request->ajax()){
+
 			$row = Schedule::with('users','plants')->OrderBy('id','desc')->where('user_id',Auth::user()->id)->latest();
 
 			return DataTables::of($row)
 
 			->addIndexColumn()
 
-		    ->addColumn('plantname',function($row){
+			->addColumn('plantname',function($row){
 				return $row->plants->name;
 			})
 
-		    ->addColumn('scheduled_power',function($row){
+			->addColumn('scheduled_power',function($row){
 				return $row->scheduled_power." MW";
 			})
 
@@ -239,7 +256,7 @@ class PowerScheduleController extends Controller
 			->rawColumns(['created_at','action','is_active','plantname','scheduled_power','date'])
 			->make(true);
 		}
-    }
+	}
 
 }
 ?>

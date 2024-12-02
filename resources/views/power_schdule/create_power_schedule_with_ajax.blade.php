@@ -98,7 +98,7 @@
 			<div class="modal-content">
 
 				<div class="modal-header">
-					<h5 class="modal-title" id="exampleModalLabel">Create Schedule</h5>
+					<h5 class="modal-title" id="exampleModalLabel">ACreate Schedule</h5>
 					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 						<span aria-hidden="true">&times;</span>
 					</button>
@@ -187,7 +187,7 @@
 	<!--begin::Modal-->
 	<div class="modal fade" id="edit_schedule" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 		<div class="modal-dialog modal-lg" role="document">
-			<div class="modal-content edit-modal-data">
+			<div class="modal-content" id="edit-modal-data">
 
 			</div>
 		</div>
@@ -199,7 +199,7 @@
 {!! JsValidator::formRequest('App\Http\Requests\Frontend\PowerScheduleRequest', '#add-schedule-form'); !!}
 <script type="text/javascript">
 	$(document).ready(function(){
-
+	
 		var table = $('#m_table_1').DataTable({
 			processing: true,
 			serverSide: true,
@@ -260,10 +260,10 @@
 				}
 			});
 		});
-	
-	$('#block_range').on('change', function() {
-		$('#block_text').html($(this).val());
-	});
+
+		$('#block_range').on('change', function() {
+			$('#block_text').html($(this).val());
+		});
 
 		$("#add-schedule-form").on('submit',function(){
 
@@ -300,31 +300,66 @@
 			})
 			return false;
 		});
-	
+
 
 		$(document).on('click', '.edit-record', function (e) {
 
-		var url = $(this).data('url');
-
-		$.ajax({
-		headers: {
-		'X-CSRF-Token': $('meta[name=csrf-token]').attr('content')
-		},
-		type: "get",
-		url: url,
-		success: function (result) {
-		mApp.unblockPage();
-		if (result.status == 'success') {
-		$('.edit-modal-data').html(result.data);
-		$('#edit_schedule').modal('show');
-		}
-		},
-		error: function (jqXHR, textStatus, errorThrown) {
-		mApp.unblockPage();
-		}
+			var url = $(this).data('url');
+			$.ajax({
+				headers: {
+					'X-CSRF-Token': $('meta[name=csrf-token]').attr('content')
+				},
+				type: "get",
+				url: url,
+				success: function (result) {
+					mApp.unblockPage();
+					if (result.status == 'success') {
+						$('#edit-modal-data').html(result.data);
+						$('#edit_schedule').modal('show');
+					}
+				},
+				error: function (jqXHR, textStatus, errorThrown) {
+					mApp.unblockPage();
+				}
+			});
 		});
 
-		})
+		$(document).on('submit',"#edit-schedule-form",function(){
+
+			mApp.blockPage({
+				overlayColor: "#000000",
+				type: "loader",
+				state: "success",
+				message: "Please wait..."
+			});
+
+			var url = $("#edit-schedule-form").attr('action');
+
+			$.ajax({
+				headers: {
+					'X-CSRF-Token': $('meta[name=csrf-token]').attr('content')
+				},
+				url:url,
+				method:'post',
+				data:$('#edit-schedule-form').serialize(),
+				success: function (result) {
+					$("#edit_schedule").modal("hide");
+					mApp.unblockPage();
+					if (result.status == 'success') {
+						table.draw();
+						toastr.success(result.message);
+					} else {
+						toastr.error(result.message);
+					}
+				},
+				error: function (jqXHR, textStatus, errorThrown) {
+					$("#edit_schedule").modal("hide");
+					mApp.unblockPage();
+				}
+			})
+
+			return false;
+		});
 
 	});
 </script>

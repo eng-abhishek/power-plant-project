@@ -18,7 +18,7 @@ class UserController extends Controller
 
 		if($request->ajax()){
 
-			$row = User::where('is_admin','N')->OrderBy('id','desc')->latest()->get();
+			$row = User::OrderBy('id','desc')->latest()->get();
 
 			return DataTables::of($row)
 
@@ -51,18 +51,29 @@ class UserController extends Controller
 		return view('backend.user.create');
 	}
 
+
 	public function store(UserRequest $request)
 	{
 		try {
 
-			User::create([
+			$insert_arr = [
 				'name' => $request->name,
 				'email' => $request->email,
 				'password' => Hash::make($request->password),
 				'role' => $request->role,
-			]);
+			];
 
-            event( new SendUserEmail($request->name,$request->password,$request->email));
+			if($request->role == 'admin'){
+
+				$insert_arr['is_admin'] = 'Y';
+
+			}else{
+				$insert_arr['is_admin'] = 'N';
+			}
+
+			User::create($insert_arr);
+
+			//event( new SendUserEmail($request->name,$request->password,$request->email));
 
 			return redirect()->route('superadmin.user.index')->with(['status' => 'success', 'message' => 'User created successfully.']);
 
@@ -81,12 +92,19 @@ class UserController extends Controller
 	{
 		try {
 
-			$record = array(
+			$record = [
 				'name' => $request->name,
 				'email' => $request->email,
 				'password' => Hash::make($request->password),
 				'role' => $request->role,
-			);
+			];
+
+			if($request->role == 'admin'){
+				$record['is_admin'] = 'Y';
+
+			}else{
+				$record['is_admin'] = 'N';
+			}
 
 			User::where('id',$id)->update($record);
 

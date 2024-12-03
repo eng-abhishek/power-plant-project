@@ -18,7 +18,6 @@ class RedirectIfAuthenticated
      */
     public function handle($request, Closure $next, $guard = null)
     {
-        
         if ($guard == "superadmin" && Auth::guard($guard)->check()) {
             return redirect()->route('superadmin.dashboard');
         }

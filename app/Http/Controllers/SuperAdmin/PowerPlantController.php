@@ -77,7 +77,7 @@ class PowerPlantController extends Controller
 				'technology' => $request->technology,
 				'capacity' => $request->capacity,
 			]);
-			return redirect()->route('superadmin.powerplant.index')->with(['status' => 'success', 'message' => 'Credit Faq created successfully.']);
+			return redirect()->route('superadmin.powerplant.index')->with(['status' => 'success', 'message' => 'Credit Power Plant created successfully.']);
 
 		} catch (\Exception $e) {
 			return redirect()->route('superadmin.powerplant.create')->with(['status' => 'danger', 'message' => 'Something went wrong, please try again.']);
@@ -107,7 +107,7 @@ class PowerPlantController extends Controller
 
 			PowerPlant::where('id',$id)->update($record);
 
-			return redirect()->route('superadmin.powerplant.index')->with(['status' => 'success', 'message' => 'Credit Faq created successfully.']);
+			return redirect()->route('superadmin.powerplant.index')->with(['status' => 'success', 'message' => 'Credit Power Plant created successfully.']);
 
 		} catch (\Exception $e) {
 			return redirect()->route('superadmin.powerplant.create')->with(['status' => 'danger', 'message' => 'Something went wrong, please try again.']);

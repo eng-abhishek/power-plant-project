@@ -140,7 +140,7 @@ class PowerScheduleController extends Controller
     public function getGraphData(){
       
         $data = BlockNumber::whereHas('schedules',function($q){
-        	$q->where('id',13);
+        	$q->where('id',1);
         })->get();
         
         $arr = [];

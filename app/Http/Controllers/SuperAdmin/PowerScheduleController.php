@@ -75,12 +75,28 @@ class PowerScheduleController extends Controller
 	{
 		try {
 
-			Schedule::create([
+			$insert = Schedule::create([
 				'user_id' => $request->user_id,
 				'plant_id' => $request->plant_id,
 				'date' => $request->date,
 				'scheduled_power' => $request->scheduled_power,
 			]);
+
+			$blocks = $request->block_range;
+
+			$block_array = [];
+
+			for($i=1;$i<=$blocks;$i++){
+
+				$block_array[$i]['block_number'] = $i;
+				$block_array[$i]['schdule_id'] = $insert->id;
+				$block_array[$i]['created_at'] = now();
+
+			}
+
+			/* insert block number */             
+			BlockNumber::insert($block_array);
+
 			return redirect()->route('superadmin.schedule.index')->with(['status' => 'success', 'message' => 'Schedule created successfully.']);
 
 		} catch (\Exception $e) {
@@ -108,6 +124,24 @@ class PowerScheduleController extends Controller
 				'date' => $request->date,
 				'scheduled_power' => $request->scheduled_power,
 			);
+
+
+			$blocks = $request->block_range;
+
+			for($i=1;$i<=$blocks;$i++){
+
+				$block_array[$i]['block_number'] = $i;
+				$block_array[$i]['schdule_id'] = $id;
+				$block_array[$i]['created_at'] = now();
+
+			}
+
+			/* remove previous record */
+			BlockNumber::where('schdule_id',$id)->delete();
+
+
+			/* insert block number */             
+			BlockNumber::insert($block_array);
 
 			Schedule::where('id',$id)->update($record);
 
@@ -142,6 +176,7 @@ class PowerScheduleController extends Controller
         $data = BlockNumber::whereHas('schedules',function($q){
         	$q->where('id',1);
         })->get();
+        // dd($data);
         
         $arr = [];
 
